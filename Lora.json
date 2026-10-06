@@ -1,5334 +1,761 @@
 {
-  "total": 888,
-  "fullString": "ẮẶẰẲẴǍẤẬẦẨẪÄẠẢĀĄÅÆĆČÇĈĊĎÐĔĚẾỆỀỂỄËĖẸẺĒĘẼƏƷǮĞǦĜĢĠǤĦȞĤĲĬÎÏİỊỈĪĮĨĴǨĶĹĽĻĿŁŃŇŅÑŊŎỐỘỒỔỖÖỌỎỚỢỜỞỠŐŌØǾŒÞŔŘŖŚŠŞŜȘẞŦŤŢȚŬǓÛÜỤỦỨỰỪỬỮŰŪŲŮŨẂŴẄẀŶŸỴỲỶỸŹŽŻǎäāąåæćčçĉċďðĕěëėẹẻēęẽəʒǯğǧĝģġǥħȟĥıĭîïīįĳȷĵǩķĺľļŀłńŉňņñŋŏöọỏőōøǿœþŕřŗśšşŝșßſŧťţțŭǔûüűūųůẃŵẅẁŷÿźžżﬁﬂªºАБВГЃҐӶҒҔДЕЀЁЖЗИЙЍҊКЌЛМНОПРСТУЎФХЧЦШЩЏЬЫЪЉЊЅЄЭІЇЈЋЮЯЂѢѪѬѲѴҖҘҚҜҞҠҢҤҦԤҨҪҬҮҰҲҴҶҸҺԦҼҾӀӁӃӅӇӉӋӍӐӒӔӖӘӚӜӞӠӢӤӦӨӪӬӮӰӲӴӸӺӼӾԐԒԚԜҌҎԨԮабвгѓґӷғҕдеѐёжзийѝҋкќлмнопрстуўфхчцшщџьыъљњѕєэіїјћюяђѣѫѭѳѵҗҙқҝҟҡңҥԥҧҩҫҭүұҳҵҷҹһԧҽҿӏӂӄӆӈӊӌӎӑӓӕӗәӛӝӟӡӣӥӧөӫӭӯӱӳӵӹӻӽӿԑԓԛԝҍҏԩԯΓΔΠΩμπ0123456789⁄½¼¾¹²³⁴  \r⟨⟩.,:;…!¡?¿·•*#/\\-–—‐_(){}[]‚„“”‘’«»‹›\"'ƒÅ@&¶§©®™°′″|¦ℓ†‡℮№K¢¤$€₴₺₽£₸₮¥∙⁒∕+−×÷=≠><≥≤±≈~¬^∞∫Ω∆∏∑√∂µ%‰◊̵̶̧̨̛̣̦̈̇̀́̋̂̌̆̊̃̄̉̒¨˙`´˝ˆˉˇ˘˚˜¯¸˛ʼʻᲁᲅ",
-  "glyphs": [
-    {
-      "index": 0,
-      "gid": ".notdef",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 1,
-      "gid": "A",
-      "unicodeHex": "E372",
-      "char": ""
-    },
-    {
-      "index": 2,
-      "gid": "Aacute",
-      "unicodeHex": "E5F3",
-      "char": ""
-    },
-    {
-      "index": 3,
-      "gid": "Abreve",
-      "unicodeHex": "E90B",
-      "char": ""
-    },
-    {
-      "index": 4,
-      "gid": "uni1EAE",
-      "unicodeHex": "1EAE",
-      "char": "Ắ"
-    },
-    {
-      "index": 5,
-      "gid": "uni1EB6",
-      "unicodeHex": "1EB6",
-      "char": "Ặ"
-    },
-    {
-      "index": 6,
-      "gid": "uni1EB0",
-      "unicodeHex": "1EB0",
-      "char": "Ằ"
-    },
-    {
-      "index": 7,
-      "gid": "uni1EB2",
-      "unicodeHex": "1EB2",
-      "char": "Ẳ"
-    },
-    {
-      "index": 8,
-      "gid": "uni1EB4",
-      "unicodeHex": "1EB4",
-      "char": "Ẵ"
-    },
-    {
-      "index": 9,
-      "gid": "uni01CD",
-      "unicodeHex": "1CD",
-      "char": "Ǎ"
-    },
-    {
-      "index": 10,
-      "gid": "Acircumflex",
-      "unicodeHex": "EE69",
-      "char": ""
-    },
-    {
-      "index": 11,
-      "gid": "uni1EA4",
-      "unicodeHex": "1EA4",
-      "char": "Ấ"
-    },
-    {
-      "index": 12,
-      "gid": "uni1EAC",
-      "unicodeHex": "1EAC",
-      "char": "Ậ"
-    },
-    {
-      "index": 13,
-      "gid": "uni1EA6",
-      "unicodeHex": "1EA6",
-      "char": "Ầ"
-    },
-    {
-      "index": 14,
-      "gid": "uni1EA8",
-      "unicodeHex": "1EA8",
-      "char": "Ẩ"
-    },
-    {
-      "index": 15,
-      "gid": "uni1EAA",
-      "unicodeHex": "1EAA",
-      "char": "Ẫ"
-    },
-    {
-      "index": 16,
-      "gid": "Adieresis",
-      "unicodeHex": "C4",
-      "char": "Ä"
-    },
-    {
-      "index": 17,
-      "gid": "uni1EA0",
-      "unicodeHex": "1EA0",
-      "char": "Ạ"
-    },
-    {
-      "index": 18,
-      "gid": "Agrave",
-      "unicodeHex": "E037",
-      "char": ""
-    },
-    {
-      "index": 19,
-      "gid": "uni1EA2",
-      "unicodeHex": "1EA2",
-      "char": "Ả"
-    },
-    {
-      "index": 20,
-      "gid": "Amacron",
-      "unicodeHex": "100",
-      "char": "Ā"
-    },
-    {
-      "index": 21,
-      "gid": "Aogonek",
-      "unicodeHex": "104",
-      "char": "Ą"
-    },
-    {
-      "index": 22,
-      "gid": "Aring",
-      "unicodeHex": "C5",
-      "char": "Å"
-    },
-    {
-      "index": 23,
-      "gid": "Atilde",
-      "unicodeHex": "E2BD",
-      "char": ""
-    },
-    {
-      "index": 24,
-      "gid": "AE",
-      "unicodeHex": "C6",
-      "char": "Æ"
-    },
-    {
-      "index": 25,
-      "gid": "B",
-      "unicodeHex": "E576",
-      "char": ""
-    },
-    {
-      "index": 26,
-      "gid": "C",
-      "unicodeHex": "EF01",
-      "char": ""
-    },
-    {
-      "index": 27,
-      "gid": "Cacute",
-      "unicodeHex": "106",
-      "char": "Ć"
-    },
-    {
-      "index": 28,
-      "gid": "Ccaron",
-      "unicodeHex": "10C",
-      "char": "Č"
-    },
-    {
-      "index": 29,
-      "gid": "Ccedilla",
-      "unicodeHex": "C7",
-      "char": "Ç"
-    },
-    {
-      "index": 30,
-      "gid": "Ccircumflex",
-      "unicodeHex": "108",
-      "char": "Ĉ"
-    },
-    {
-      "index": 31,
-      "gid": "Cdotaccent",
-      "unicodeHex": "10A",
-      "char": "Ċ"
-    },
-    {
-      "index": 32,
-      "gid": "D",
-      "unicodeHex": "E1E8",
-      "char": ""
-    },
-    {
-      "index": 33,
-      "gid": "Dcaron",
-      "unicodeHex": "10E",
-      "char": "Ď"
-    },
-    {
-      "index": 34,
-      "gid": "Dcroat",
-      "unicodeHex": "F39F",
-      "char": ""
-    },
-    {
-      "index": 35,
-      "gid": "Eth",
-      "unicodeHex": "D0",
-      "char": "Ð"
-    },
-    {
-      "index": 36,
-      "gid": "E",
-      "unicodeHex": "EEE0",
-      "char": ""
-    },
-    {
-      "index": 37,
-      "gid": "Eacute",
-      "unicodeHex": "F6A3",
-      "char": ""
-    },
-    {
-      "index": 38,
-      "gid": "Ebreve",
-      "unicodeHex": "114",
-      "char": "Ĕ"
-    },
-    {
-      "index": 39,
-      "gid": "Ecaron",
-      "unicodeHex": "11A",
-      "char": "Ě"
-    },
-    {
-      "index": 40,
-      "gid": "Ecircumflex",
-      "unicodeHex": "F55E",
-      "char": ""
-    },
-    {
-      "index": 41,
-      "gid": "uni1EBE",
-      "unicodeHex": "1EBE",
-      "char": "Ế"
-    },
-    {
-      "index": 42,
-      "gid": "uni1EC6",
-      "unicodeHex": "1EC6",
-      "char": "Ệ"
-    },
-    {
-      "index": 43,
-      "gid": "uni1EC0",
-      "unicodeHex": "1EC0",
-      "char": "Ề"
-    },
-    {
-      "index": 44,
-      "gid": "uni1EC2",
-      "unicodeHex": "1EC2",
-      "char": "Ể"
-    },
-    {
-      "index": 45,
-      "gid": "uni1EC4",
-      "unicodeHex": "1EC4",
-      "char": "Ễ"
-    },
-    {
-      "index": 46,
-      "gid": "Edieresis",
-      "unicodeHex": "CB",
-      "char": "Ë"
-    },
-    {
-      "index": 47,
-      "gid": "Edotaccent",
-      "unicodeHex": "116",
-      "char": "Ė"
-    },
-    {
-      "index": 48,
-      "gid": "uni1EB8",
-      "unicodeHex": "1EB8",
-      "char": "Ẹ"
-    },
-    {
-      "index": 49,
-      "gid": "Egrave",
-      "unicodeHex": "F35A",
-      "char": ""
-    },
-    {
-      "index": 50,
-      "gid": "uni1EBA",
-      "unicodeHex": "1EBA",
-      "char": "Ẻ"
-    },
-    {
-      "index": 51,
-      "gid": "Emacron",
-      "unicodeHex": "112",
-      "char": "Ē"
-    },
-    {
-      "index": 52,
-      "gid": "Eogonek",
-      "unicodeHex": "118",
-      "char": "Ę"
-    },
-    {
-      "index": 53,
-      "gid": "uni1EBC",
-      "unicodeHex": "1EBC",
-      "char": "Ẽ"
-    },
-    {
-      "index": 54,
-      "gid": "uni018F",
-      "unicodeHex": "18F",
-      "char": "Ə"
-    },
-    {
-      "index": 55,
-      "gid": "uni01B7",
-      "unicodeHex": "1B7",
-      "char": "Ʒ"
-    },
-    {
-      "index": 56,
-      "gid": "uni01EE",
-      "unicodeHex": "1EE",
-      "char": "Ǯ"
-    },
-    {
-      "index": 57,
-      "gid": "F",
-      "unicodeHex": "EDCD",
-      "char": ""
-    },
-    {
-      "index": 58,
-      "gid": "G",
-      "unicodeHex": "E87E",
-      "char": ""
-    },
-    {
-      "index": 59,
-      "gid": "Gbreve",
-      "unicodeHex": "11E",
-      "char": "Ğ"
-    },
-    {
-      "index": 60,
-      "gid": "Gcaron",
-      "unicodeHex": "1E6",
-      "char": "Ǧ"
-    },
-    {
-      "index": 61,
-      "gid": "Gcircumflex",
-      "unicodeHex": "11C",
-      "char": "Ĝ"
-    },
-    {
-      "index": 62,
-      "gid": "uni0122",
-      "unicodeHex": "122",
-      "char": "Ģ"
-    },
-    {
-      "index": 63,
-      "gid": "Gdotaccent",
-      "unicodeHex": "120",
-      "char": "Ġ"
-    },
-    {
-      "index": 64,
-      "gid": "uni01E4",
-      "unicodeHex": "1E4",
-      "char": "Ǥ"
-    },
-    {
-      "index": 65,
-      "gid": "H",
-      "unicodeHex": "E55C",
-      "char": ""
-    },
-    {
-      "index": 66,
-      "gid": "Hbar",
-      "unicodeHex": "126",
-      "char": "Ħ"
-    },
-    {
-      "index": 67,
-      "gid": "uni021E",
-      "unicodeHex": "21E",
-      "char": "Ȟ"
-    },
-    {
-      "index": 68,
-      "gid": "Hcircumflex",
-      "unicodeHex": "124",
-      "char": "Ĥ"
-    },
-    {
-      "index": 69,
-      "gid": "I",
-      "unicodeHex": "F4C5",
-      "char": ""
-    },
-    {
-      "index": 70,
-      "gid": "IJ",
-      "unicodeHex": "132",
-      "char": "Ĳ"
-    },
-    {
-      "index": 71,
-      "gid": "Iacute",
-      "unicodeHex": "EAEB",
-      "char": ""
-    },
-    {
-      "index": 72,
-      "gid": "Ibreve",
-      "unicodeHex": "12C",
-      "char": "Ĭ"
-    },
-    {
-      "index": 73,
-      "gid": "Icircumflex",
-      "unicodeHex": "CE",
-      "char": "Î"
-    },
-    {
-      "index": 74,
-      "gid": "Idieresis",
-      "unicodeHex": "CF",
-      "char": "Ï"
-    },
-    {
-      "index": 75,
-      "gid": "Idotaccent",
-      "unicodeHex": "130",
-      "char": "İ"
-    },
-    {
-      "index": 76,
-      "gid": "uni1ECA",
-      "unicodeHex": "1ECA",
-      "char": "Ị"
-    },
-    {
-      "index": 77,
-      "gid": "Igrave",
-      "unicodeHex": "E99D",
-      "char": ""
-    },
-    {
-      "index": 78,
-      "gid": "uni1EC8",
-      "unicodeHex": "1EC8",
-      "char": "Ỉ"
-    },
-    {
-      "index": 79,
-      "gid": "Imacron",
-      "unicodeHex": "12A",
-      "char": "Ī"
-    },
-    {
-      "index": 80,
-      "gid": "Iogonek",
-      "unicodeHex": "12E",
-      "char": "Į"
-    },
-    {
-      "index": 81,
-      "gid": "Itilde",
-      "unicodeHex": "128",
-      "char": "Ĩ"
-    },
-    {
-      "index": 82,
-      "gid": "J",
-      "unicodeHex": "EE80",
-      "char": ""
-    },
-    {
-      "index": 83,
-      "gid": "Jcircumflex",
-      "unicodeHex": "134",
-      "char": "Ĵ"
-    },
-    {
-      "index": 84,
-      "gid": "K",
-      "unicodeHex": "EB83",
-      "char": ""
-    },
-    {
-      "index": 85,
-      "gid": "uni01E8",
-      "unicodeHex": "1E8",
-      "char": "Ǩ"
-    },
-    {
-      "index": 86,
-      "gid": "uni0136",
-      "unicodeHex": "136",
-      "char": "Ķ"
-    },
-    {
-      "index": 87,
-      "gid": "L",
-      "unicodeHex": "F3EC",
-      "char": ""
-    },
-    {
-      "index": 88,
-      "gid": "Lacute",
-      "unicodeHex": "139",
-      "char": "Ĺ"
-    },
-    {
-      "index": 89,
-      "gid": "Lcaron",
-      "unicodeHex": "13D",
-      "char": "Ľ"
-    },
-    {
-      "index": 90,
-      "gid": "uni013B",
-      "unicodeHex": "13B",
-      "char": "Ļ"
-    },
-    {
-      "index": 91,
-      "gid": "Ldot",
-      "unicodeHex": "13F",
-      "char": "Ŀ"
-    },
-    {
-      "index": 92,
-      "gid": "Lslash",
-      "unicodeHex": "141",
-      "char": "Ł"
-    },
-    {
-      "index": 93,
-      "gid": "M",
-      "unicodeHex": "E96B",
-      "char": ""
-    },
-    {
-      "index": 94,
-      "gid": "N",
-      "unicodeHex": "F30E",
-      "char": ""
-    },
-    {
-      "index": 95,
-      "gid": "Nacute",
-      "unicodeHex": "143",
-      "char": "Ń"
-    },
-    {
-      "index": 96,
-      "gid": "Ncaron",
-      "unicodeHex": "147",
-      "char": "Ň"
-    },
-    {
-      "index": 97,
-      "gid": "uni0145",
-      "unicodeHex": "145",
-      "char": "Ņ"
-    },
-    {
-      "index": 98,
-      "gid": "Ntilde",
-      "unicodeHex": "D1",
-      "char": "Ñ"
-    },
-    {
-      "index": 99,
-      "gid": "Eng",
-      "unicodeHex": "14A",
-      "char": "Ŋ"
-    },
-    {
-      "index": 100,
-      "gid": "O",
-      "unicodeHex": "F525",
-      "char": ""
-    },
-    {
-      "index": 101,
-      "gid": "Oacute",
-      "unicodeHex": "F4C2",
-      "char": ""
-    },
-    {
-      "index": 102,
-      "gid": "Obreve",
-      "unicodeHex": "14E",
-      "char": "Ŏ"
-    },
-    {
-      "index": 103,
-      "gid": "Ocircumflex",
-      "unicodeHex": "E82E",
-      "char": ""
-    },
-    {
-      "index": 104,
-      "gid": "uni1ED0",
-      "unicodeHex": "1ED0",
-      "char": "Ố"
-    },
-    {
-      "index": 105,
-      "gid": "uni1ED8",
-      "unicodeHex": "1ED8",
-      "char": "Ộ"
-    },
-    {
-      "index": 106,
-      "gid": "uni1ED2",
-      "unicodeHex": "1ED2",
-      "char": "Ồ"
-    },
-    {
-      "index": 107,
-      "gid": "uni1ED4",
-      "unicodeHex": "1ED4",
-      "char": "Ổ"
-    },
-    {
-      "index": 108,
-      "gid": "uni1ED6",
-      "unicodeHex": "1ED6",
-      "char": "Ỗ"
-    },
-    {
-      "index": 109,
-      "gid": "Odieresis",
-      "unicodeHex": "D6",
-      "char": "Ö"
-    },
-    {
-      "index": 110,
-      "gid": "uni1ECC",
-      "unicodeHex": "1ECC",
-      "char": "Ọ"
-    },
-    {
-      "index": 111,
-      "gid": "Ograve",
-      "unicodeHex": "F114",
-      "char": ""
-    },
-    {
-      "index": 112,
-      "gid": "uni1ECE",
-      "unicodeHex": "1ECE",
-      "char": "Ỏ"
-    },
-    {
-      "index": 113,
-      "gid": "Ohorn",
-      "unicodeHex": "E753",
-      "char": ""
-    },
-    {
-      "index": 114,
-      "gid": "uni1EDA",
-      "unicodeHex": "1EDA",
-      "char": "Ớ"
-    },
-    {
-      "index": 115,
-      "gid": "uni1EE2",
-      "unicodeHex": "1EE2",
-      "char": "Ợ"
-    },
-    {
-      "index": 116,
-      "gid": "uni1EDC",
-      "unicodeHex": "1EDC",
-      "char": "Ờ"
-    },
-    {
-      "index": 117,
-      "gid": "uni1EDE",
-      "unicodeHex": "1EDE",
-      "char": "Ở"
-    },
-    {
-      "index": 118,
-      "gid": "uni1EE0",
-      "unicodeHex": "1EE0",
-      "char": "Ỡ"
-    },
-    {
-      "index": 119,
-      "gid": "Ohungarumlaut",
-      "unicodeHex": "150",
-      "char": "Ő"
-    },
-    {
-      "index": 120,
-      "gid": "Omacron",
-      "unicodeHex": "14C",
-      "char": "Ō"
-    },
-    {
-      "index": 121,
-      "gid": "Oslash",
-      "unicodeHex": "D8",
-      "char": "Ø"
-    },
-    {
-      "index": 122,
-      "gid": "Oslashacute",
-      "unicodeHex": "1FE",
-      "char": "Ǿ"
-    },
-    {
-      "index": 123,
-      "gid": "Otilde",
-      "unicodeHex": "E1B4",
-      "char": ""
-    },
-    {
-      "index": 124,
-      "gid": "OE",
-      "unicodeHex": "152",
-      "char": "Œ"
-    },
-    {
-      "index": 125,
-      "gid": "P",
-      "unicodeHex": "F102",
-      "char": ""
-    },
-    {
-      "index": 126,
-      "gid": "Thorn",
-      "unicodeHex": "DE",
-      "char": "Þ"
-    },
-    {
-      "index": 127,
-      "gid": "Q",
-      "unicodeHex": "E3F8",
-      "char": ""
-    },
-    {
-      "index": 128,
-      "gid": "R",
-      "unicodeHex": "E003",
-      "char": ""
-    },
-    {
-      "index": 129,
-      "gid": "Racute",
-      "unicodeHex": "154",
-      "char": "Ŕ"
-    },
-    {
-      "index": 130,
-      "gid": "Rcaron",
-      "unicodeHex": "158",
-      "char": "Ř"
-    },
-    {
-      "index": 131,
-      "gid": "uni0156",
-      "unicodeHex": "156",
-      "char": "Ŗ"
-    },
-    {
-      "index": 132,
-      "gid": "S",
-      "unicodeHex": "E4A1",
-      "char": ""
-    },
-    {
-      "index": 133,
-      "gid": "Sacute",
-      "unicodeHex": "15A",
-      "char": "Ś"
-    },
-    {
-      "index": 134,
-      "gid": "Scaron",
-      "unicodeHex": "160",
-      "char": "Š"
-    },
-    {
-      "index": 135,
-      "gid": "Scedilla",
-      "unicodeHex": "15E",
-      "char": "Ş"
-    },
-    {
-      "index": 136,
-      "gid": "Scircumflex",
-      "unicodeHex": "15C",
-      "char": "Ŝ"
-    },
-    {
-      "index": 137,
-      "gid": "uni0218",
-      "unicodeHex": "218",
-      "char": "Ș"
-    },
-    {
-      "index": 138,
-      "gid": "uni1E9E",
-      "unicodeHex": "1E9E",
-      "char": "ẞ"
-    },
-    {
-      "index": 139,
-      "gid": "T",
-      "unicodeHex": "F172",
-      "char": ""
-    },
-    {
-      "index": 140,
-      "gid": "Tbar",
-      "unicodeHex": "166",
-      "char": "Ŧ"
-    },
-    {
-      "index": 141,
-      "gid": "Tcaron",
-      "unicodeHex": "164",
-      "char": "Ť"
-    },
-    {
-      "index": 142,
-      "gid": "uni0162",
-      "unicodeHex": "162",
-      "char": "Ţ"
-    },
-    {
-      "index": 143,
-      "gid": "uni021A",
-      "unicodeHex": "21A",
-      "char": "Ț"
-    },
-    {
-      "index": 144,
-      "gid": "U",
-      "unicodeHex": "F737",
-      "char": ""
-    },
-    {
-      "index": 145,
-      "gid": "Uacute",
-      "unicodeHex": "E642",
-      "char": ""
-    },
-    {
-      "index": 146,
-      "gid": "Ubreve",
-      "unicodeHex": "16C",
-      "char": "Ŭ"
-    },
-    {
-      "index": 147,
-      "gid": "uni01D3",
-      "unicodeHex": "1D3",
-      "char": "Ǔ"
-    },
-    {
-      "index": 148,
-      "gid": "Ucircumflex",
-      "unicodeHex": "DB",
-      "char": "Û"
-    },
-    {
-      "index": 149,
-      "gid": "Udieresis",
-      "unicodeHex": "DC",
-      "char": "Ü"
-    },
-    {
-      "index": 150,
-      "gid": "uni1EE4",
-      "unicodeHex": "1EE4",
-      "char": "Ụ"
-    },
-    {
-      "index": 151,
-      "gid": "Ugrave",
-      "unicodeHex": "E1A5",
-      "char": ""
-    },
-    {
-      "index": 152,
-      "gid": "uni1EE6",
-      "unicodeHex": "1EE6",
-      "char": "Ủ"
-    },
-    {
-      "index": 153,
-      "gid": "Uhorn",
-      "unicodeHex": "F80F",
-      "char": ""
-    },
-    {
-      "index": 154,
-      "gid": "uni1EE8",
-      "unicodeHex": "1EE8",
-      "char": "Ứ"
-    },
-    {
-      "index": 155,
-      "gid": "uni1EF0",
-      "unicodeHex": "1EF0",
-      "char": "Ự"
-    },
-    {
-      "index": 156,
-      "gid": "uni1EEA",
-      "unicodeHex": "1EEA",
-      "char": "Ừ"
-    },
-    {
-      "index": 157,
-      "gid": "uni1EEC",
-      "unicodeHex": "1EEC",
-      "char": "Ử"
-    },
-    {
-      "index": 158,
-      "gid": "uni1EEE",
-      "unicodeHex": "1EEE",
-      "char": "Ữ"
-    },
-    {
-      "index": 159,
-      "gid": "Uhungarumlaut",
-      "unicodeHex": "170",
-      "char": "Ű"
-    },
-    {
-      "index": 160,
-      "gid": "Umacron",
-      "unicodeHex": "16A",
-      "char": "Ū"
-    },
-    {
-      "index": 161,
-      "gid": "Uogonek",
-      "unicodeHex": "172",
-      "char": "Ų"
-    },
-    {
-      "index": 162,
-      "gid": "Uring",
-      "unicodeHex": "16E",
-      "char": "Ů"
-    },
-    {
-      "index": 163,
-      "gid": "Utilde",
-      "unicodeHex": "168",
-      "char": "Ũ"
-    },
-    {
-      "index": 164,
-      "gid": "V",
-      "unicodeHex": "F534",
-      "char": ""
-    },
-    {
-      "index": 165,
-      "gid": "W",
-      "unicodeHex": "F34F",
-      "char": ""
-    },
-    {
-      "index": 166,
-      "gid": "Wacute",
-      "unicodeHex": "1E82",
-      "char": "Ẃ"
-    },
-    {
-      "index": 167,
-      "gid": "Wcircumflex",
-      "unicodeHex": "174",
-      "char": "Ŵ"
-    },
-    {
-      "index": 168,
-      "gid": "Wdieresis",
-      "unicodeHex": "1E84",
-      "char": "Ẅ"
-    },
-    {
-      "index": 169,
-      "gid": "Wgrave",
-      "unicodeHex": "1E80",
-      "char": "Ẁ"
-    },
-    {
-      "index": 170,
-      "gid": "X",
-      "unicodeHex": "E52B",
-      "char": ""
-    },
-    {
-      "index": 171,
-      "gid": "Y",
-      "unicodeHex": "EA9E",
-      "char": ""
-    },
-    {
-      "index": 172,
-      "gid": "Yacute",
-      "unicodeHex": "E9CE",
-      "char": ""
-    },
-    {
-      "index": 173,
-      "gid": "Ycircumflex",
-      "unicodeHex": "176",
-      "char": "Ŷ"
-    },
-    {
-      "index": 174,
-      "gid": "Ydieresis",
-      "unicodeHex": "178",
-      "char": "Ÿ"
-    },
-    {
-      "index": 175,
-      "gid": "uni1EF4",
-      "unicodeHex": "1EF4",
-      "char": "Ỵ"
-    },
-    {
-      "index": 176,
-      "gid": "Ygrave",
-      "unicodeHex": "1EF2",
-      "char": "Ỳ"
-    },
-    {
-      "index": 177,
-      "gid": "uni1EF6",
-      "unicodeHex": "1EF6",
-      "char": "Ỷ"
-    },
-    {
-      "index": 178,
-      "gid": "uni1EF8",
-      "unicodeHex": "1EF8",
-      "char": "Ỹ"
-    },
-    {
-      "index": 179,
-      "gid": "Z",
-      "unicodeHex": "EF78",
-      "char": ""
-    },
-    {
-      "index": 180,
-      "gid": "Zacute",
-      "unicodeHex": "179",
-      "char": "Ź"
-    },
-    {
-      "index": 181,
-      "gid": "Zcaron",
-      "unicodeHex": "17D",
-      "char": "Ž"
-    },
-    {
-      "index": 182,
-      "gid": "Zdotaccent",
-      "unicodeHex": "17B",
-      "char": "Ż"
-    },
-    {
-      "index": 183,
-      "gid": "a",
-      "unicodeHex": "EE06",
-      "char": ""
-    },
-    {
-      "index": 184,
-      "gid": "aacute",
-      "unicodeHex": "E218",
-      "char": ""
-    },
-    {
-      "index": 185,
-      "gid": "abreve",
-      "unicodeHex": "E3F6",
-      "char": ""
-    },
-    {
-      "index": 186,
-      "gid": "uni1EAF",
-      "unicodeHex": "ECE6",
-      "char": ""
-    },
-    {
-      "index": 187,
-      "gid": "uni1EB7",
-      "unicodeHex": "F4C0",
-      "char": ""
-    },
-    {
-      "index": 188,
-      "gid": "uni1EB1",
-      "unicodeHex": "EF10",
-      "char": ""
-    },
-    {
-      "index": 189,
-      "gid": "uni1EB3",
-      "unicodeHex": "E876",
-      "char": ""
-    },
-    {
-      "index": 190,
-      "gid": "uni1EB5",
-      "unicodeHex": "E5C1",
-      "char": ""
-    },
-    {
-      "index": 191,
-      "gid": "uni01CE",
-      "unicodeHex": "1CE",
-      "char": "ǎ"
-    },
-    {
-      "index": 192,
-      "gid": "acircumflex",
-      "unicodeHex": "EAF7",
-      "char": ""
-    },
-    {
-      "index": 193,
-      "gid": "uni1EA5",
-      "unicodeHex": "E104",
-      "char": ""
-    },
-    {
-      "index": 194,
-      "gid": "uni1EAD",
-      "unicodeHex": "F8AF",
-      "char": ""
-    },
-    {
-      "index": 195,
-      "gid": "uni1EA7",
-      "unicodeHex": "EEA6",
-      "char": ""
-    },
-    {
-      "index": 196,
-      "gid": "uni1EA9",
-      "unicodeHex": "E505",
-      "char": ""
-    },
-    {
-      "index": 197,
-      "gid": "uni1EAB",
-      "unicodeHex": "EAB2",
-      "char": ""
-    },
-    {
-      "index": 198,
-      "gid": "adieresis",
-      "unicodeHex": "E4",
-      "char": "ä"
-    },
-    {
-      "index": 199,
-      "gid": "uni1EA1",
-      "unicodeHex": "ECE8",
-      "char": ""
-    },
-    {
-      "index": 200,
-      "gid": "agrave",
-      "unicodeHex": "E4FF",
-      "char": ""
-    },
-    {
-      "index": 201,
-      "gid": "uni1EA3",
-      "unicodeHex": "F06F",
-      "char": ""
-    },
-    {
-      "index": 202,
-      "gid": "amacron",
-      "unicodeHex": "101",
-      "char": "ā"
-    },
-    {
-      "index": 203,
-      "gid": "aogonek",
-      "unicodeHex": "105",
-      "char": "ą"
-    },
-    {
-      "index": 204,
-      "gid": "aring",
-      "unicodeHex": "E5",
-      "char": "å"
-    },
-    {
-      "index": 205,
-      "gid": "atilde",
-      "unicodeHex": "F83B",
-      "char": ""
-    },
-    {
-      "index": 206,
-      "gid": "ae",
-      "unicodeHex": "E6",
-      "char": "æ"
-    },
-    {
-      "index": 207,
-      "gid": "b",
-      "unicodeHex": "EB25",
-      "char": ""
-    },
-    {
-      "index": 208,
-      "gid": "c",
-      "unicodeHex": "E55B",
-      "char": ""
-    },
-    {
-      "index": 209,
-      "gid": "cacute",
-      "unicodeHex": "107",
-      "char": "ć"
-    },
-    {
-      "index": 210,
-      "gid": "ccaron",
-      "unicodeHex": "10D",
-      "char": "č"
-    },
-    {
-      "index": 211,
-      "gid": "ccedilla",
-      "unicodeHex": "E7",
-      "char": "ç"
-    },
-    {
-      "index": 212,
-      "gid": "ccircumflex",
-      "unicodeHex": "109",
-      "char": "ĉ"
-    },
-    {
-      "index": 213,
-      "gid": "cdotaccent",
-      "unicodeHex": "10B",
-      "char": "ċ"
-    },
-    {
-      "index": 214,
-      "gid": "d",
-      "unicodeHex": "F1BF",
-      "char": ""
-    },
-    {
-      "index": 215,
-      "gid": "dcaron",
-      "unicodeHex": "10F",
-      "char": "ď"
-    },
-    {
-      "index": 216,
-      "gid": "dcroat",
-      "unicodeHex": "E79D",
-      "char": ""
-    },
-    {
-      "index": 217,
-      "gid": "eth",
-      "unicodeHex": "F0",
-      "char": "ð"
-    },
-    {
-      "index": 218,
-      "gid": "e",
-      "unicodeHex": "E50F",
-      "char": ""
-    },
-    {
-      "index": 219,
-      "gid": "eacute",
-      "unicodeHex": "EEDF",
-      "char": ""
-    },
-    {
-      "index": 220,
-      "gid": "ebreve",
-      "unicodeHex": "115",
-      "char": "ĕ"
-    },
-    {
-      "index": 221,
-      "gid": "ecaron",
-      "unicodeHex": "11B",
-      "char": "ě"
-    },
-    {
-      "index": 222,
-      "gid": "ecircumflex",
-      "unicodeHex": "F126",
-      "char": ""
-    },
-    {
-      "index": 223,
-      "gid": "uni1EBF",
-      "unicodeHex": "F55F",
-      "char": ""
-    },
-    {
-      "index": 224,
-      "gid": "uni1EC7",
-      "unicodeHex": "EA8E",
-      "char": ""
-    },
-    {
-      "index": 225,
-      "gid": "uni1EC1",
-      "unicodeHex": "E183",
-      "char": ""
-    },
-    {
-      "index": 226,
-      "gid": "uni1EC3",
-      "unicodeHex": "F5F2",
-      "char": ""
-    },
-    {
-      "index": 227,
-      "gid": "uni1EC5",
-      "unicodeHex": "F89D",
-      "char": ""
-    },
-    {
-      "index": 228,
-      "gid": "edieresis",
-      "unicodeHex": "EB",
-      "char": "ë"
-    },
-    {
-      "index": 229,
-      "gid": "edotaccent",
-      "unicodeHex": "117",
-      "char": "ė"
-    },
-    {
-      "index": 230,
-      "gid": "uni1EB9",
-      "unicodeHex": "1EB9",
-      "char": "ẹ"
-    },
-    {
-      "index": 231,
-      "gid": "egrave",
-      "unicodeHex": "EA0F",
-      "char": ""
-    },
-    {
-      "index": 232,
-      "gid": "uni1EBB",
-      "unicodeHex": "1EBB",
-      "char": "ẻ"
-    },
-    {
-      "index": 233,
-      "gid": "emacron",
-      "unicodeHex": "113",
-      "char": "ē"
-    },
-    {
-      "index": 234,
-      "gid": "eogonek",
-      "unicodeHex": "119",
-      "char": "ę"
-    },
-    {
-      "index": 235,
-      "gid": "uni1EBD",
-      "unicodeHex": "1EBD",
-      "char": "ẽ"
-    },
-    {
-      "index": 236,
-      "gid": "uni0259",
-      "unicodeHex": "259",
-      "char": "ə"
-    },
-    {
-      "index": 237,
-      "gid": "uni0292",
-      "unicodeHex": "292",
-      "char": "ʒ"
-    },
-    {
-      "index": 238,
-      "gid": "uni01EF",
-      "unicodeHex": "1EF",
-      "char": "ǯ"
-    },
-    {
-      "index": 239,
-      "gid": "f",
-      "unicodeHex": "EAAE",
-      "char": ""
-    },
-    {
-      "index": 240,
-      "gid": "g",
-      "unicodeHex": "E739",
-      "char": ""
-    },
-    {
-      "index": 241,
-      "gid": "gbreve",
-      "unicodeHex": "11F",
-      "char": "ğ"
-    },
-    {
-      "index": 242,
-      "gid": "gcaron",
-      "unicodeHex": "1E7",
-      "char": "ǧ"
-    },
-    {
-      "index": 243,
-      "gid": "gcircumflex",
-      "unicodeHex": "11D",
-      "char": "ĝ"
-    },
-    {
-      "index": 244,
-      "gid": "uni0123",
-      "unicodeHex": "123",
-      "char": "ģ"
-    },
-    {
-      "index": 245,
-      "gid": "gdotaccent",
-      "unicodeHex": "121",
-      "char": "ġ"
-    },
-    {
-      "index": 246,
-      "gid": "uni01E5",
-      "unicodeHex": "1E5",
-      "char": "ǥ"
-    },
-    {
-      "index": 247,
-      "gid": "h",
-      "unicodeHex": "E8F4",
-      "char": ""
-    },
-    {
-      "index": 248,
-      "gid": "hbar",
-      "unicodeHex": "127",
-      "char": "ħ"
-    },
-    {
-      "index": 249,
-      "gid": "uni021F",
-      "unicodeHex": "21F",
-      "char": "ȟ"
-    },
-    {
-      "index": 250,
-      "gid": "hcircumflex",
-      "unicodeHex": "125",
-      "char": "ĥ"
-    },
-    {
-      "index": 251,
-      "gid": "i",
-      "unicodeHex": "E4E4",
-      "char": ""
-    },
-    {
-      "index": 252,
-      "gid": "dotlessi",
-      "unicodeHex": "131",
-      "char": "ı"
-    },
-    {
-      "index": 253,
-      "gid": "iacute",
-      "unicodeHex": "EAD2",
-      "char": ""
-    },
-    {
-      "index": 254,
-      "gid": "ibreve",
-      "unicodeHex": "12D",
-      "char": "ĭ"
-    },
-    {
-      "index": 255,
-      "gid": "icircumflex",
-      "unicodeHex": "EE",
-      "char": "î"
-    },
-    {
-      "index": 256,
-      "gid": "idieresis",
-      "unicodeHex": "EF",
-      "char": "ï"
-    },
-    {
-      "index": 257,
-      "gid": "i.loclTRK",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 258,
-      "gid": "uni1ECB",
-      "unicodeHex": "F831",
-      "char": ""
-    },
-    {
-      "index": 259,
-      "gid": "igrave",
-      "unicodeHex": "E33E",
-      "char": ""
-    },
-    {
-      "index": 260,
-      "gid": "uni1EC9",
-      "unicodeHex": "F4F0",
-      "char": ""
-    },
-    {
-      "index": 261,
-      "gid": "imacron",
-      "unicodeHex": "12B",
-      "char": "ī"
-    },
-    {
-      "index": 262,
-      "gid": "iogonek",
-      "unicodeHex": "12F",
-      "char": "į"
-    },
-    {
-      "index": 263,
-      "gid": "itilde",
-      "unicodeHex": "EC68",
-      "char": ""
-    },
-    {
-      "index": 264,
-      "gid": "ij",
-      "unicodeHex": "133",
-      "char": "ĳ"
-    },
-    {
-      "index": 265,
-      "gid": "j",
-      "unicodeHex": "F3E6",
-      "char": ""
-    },
-    {
-      "index": 266,
-      "gid": "uni0237",
-      "unicodeHex": "237",
-      "char": "ȷ"
-    },
-    {
-      "index": 267,
-      "gid": "jcircumflex",
-      "unicodeHex": "135",
-      "char": "ĵ"
-    },
-    {
-      "index": 268,
-      "gid": "k",
-      "unicodeHex": "E56A",
-      "char": ""
-    },
-    {
-      "index": 269,
-      "gid": "uni01E9",
-      "unicodeHex": "1E9",
-      "char": "ǩ"
-    },
-    {
-      "index": 270,
-      "gid": "uni0137",
-      "unicodeHex": "137",
-      "char": "ķ"
-    },
-    {
-      "index": 271,
-      "gid": "l",
-      "unicodeHex": "E2EB",
-      "char": ""
-    },
-    {
-      "index": 272,
-      "gid": "lacute",
-      "unicodeHex": "13A",
-      "char": "ĺ"
-    },
-    {
-      "index": 273,
-      "gid": "lcaron",
-      "unicodeHex": "13E",
-      "char": "ľ"
-    },
-    {
-      "index": 274,
-      "gid": "uni013C",
-      "unicodeHex": "13C",
-      "char": "ļ"
-    },
-    {
-      "index": 275,
-      "gid": "ldot",
-      "unicodeHex": "140",
-      "char": "ŀ"
-    },
-    {
-      "index": 276,
-      "gid": "lslash",
-      "unicodeHex": "142",
-      "char": "ł"
-    },
-    {
-      "index": 277,
-      "gid": "m",
-      "unicodeHex": "E79B",
-      "char": ""
-    },
-    {
-      "index": 278,
-      "gid": "n",
-      "unicodeHex": "E593",
-      "char": ""
-    },
-    {
-      "index": 279,
-      "gid": "nacute",
-      "unicodeHex": "144",
-      "char": "ń"
-    },
-    {
-      "index": 280,
-      "gid": "napostrophe",
-      "unicodeHex": "149",
-      "char": "ŉ"
-    },
-    {
-      "index": 281,
-      "gid": "ncaron",
-      "unicodeHex": "148",
-      "char": "ň"
-    },
-    {
-      "index": 282,
-      "gid": "uni0146",
-      "unicodeHex": "146",
-      "char": "ņ"
-    },
-    {
-      "index": 283,
-      "gid": "ntilde",
-      "unicodeHex": "F1",
-      "char": "ñ"
-    },
-    {
-      "index": 284,
-      "gid": "eng",
-      "unicodeHex": "14B",
-      "char": "ŋ"
-    },
-    {
-      "index": 285,
-      "gid": "o",
-      "unicodeHex": "F156",
-      "char": ""
-    },
-    {
-      "index": 286,
-      "gid": "oacute",
-      "unicodeHex": "E1EA",
-      "char": ""
-    },
-    {
-      "index": 287,
-      "gid": "obreve",
-      "unicodeHex": "14F",
-      "char": "ŏ"
-    },
-    {
-      "index": 288,
-      "gid": "ocircumflex",
-      "unicodeHex": "F8DF",
-      "char": ""
-    },
-    {
-      "index": 289,
-      "gid": "uni1ED1",
-      "unicodeHex": "EC63",
-      "char": ""
-    },
-    {
-      "index": 290,
-      "gid": "uni1ED9",
-      "unicodeHex": "E072",
-      "char": ""
-    },
-    {
-      "index": 291,
-      "gid": "uni1ED3",
-      "unicodeHex": "ED4A",
-      "char": ""
-    },
-    {
-      "index": 292,
-      "gid": "uni1ED5",
-      "unicodeHex": "E73C",
-      "char": ""
-    },
-    {
-      "index": 293,
-      "gid": "uni1ED7",
-      "unicodeHex": "F635",
-      "char": ""
-    },
-    {
-      "index": 294,
-      "gid": "odieresis",
-      "unicodeHex": "F6",
-      "char": "ö"
-    },
-    {
-      "index": 295,
-      "gid": "uni1ECD",
-      "unicodeHex": "1ECD",
-      "char": "ọ"
-    },
-    {
-      "index": 296,
-      "gid": "ograve",
-      "unicodeHex": "F565",
-      "char": ""
-    },
-    {
-      "index": 297,
-      "gid": "uni1ECF",
-      "unicodeHex": "1ECF",
-      "char": "ỏ"
-    },
-    {
-      "index": 298,
-      "gid": "ohorn",
-      "unicodeHex": "E6F7",
-      "char": ""
-    },
-    {
-      "index": 299,
-      "gid": "uni1EDB",
-      "unicodeHex": "F7C2",
-      "char": ""
-    },
-    {
-      "index": 300,
-      "gid": "uni1EE3",
-      "unicodeHex": "E622",
-      "char": ""
-    },
-    {
-      "index": 301,
-      "gid": "uni1EDD",
-      "unicodeHex": "EDB3",
-      "char": ""
-    },
-    {
-      "index": 302,
-      "gid": "uni1EDF",
-      "unicodeHex": "E39E",
-      "char": ""
-    },
-    {
-      "index": 303,
-      "gid": "uni1EE1",
-      "unicodeHex": "F0E0",
-      "char": ""
-    },
-    {
-      "index": 304,
-      "gid": "ohungarumlaut",
-      "unicodeHex": "151",
-      "char": "ő"
-    },
-    {
-      "index": 305,
-      "gid": "omacron",
-      "unicodeHex": "14D",
-      "char": "ō"
-    },
-    {
-      "index": 306,
-      "gid": "oslash",
-      "unicodeHex": "F8",
-      "char": "ø"
-    },
-    {
-      "index": 307,
-      "gid": "oslashacute",
-      "unicodeHex": "1FF",
-      "char": "ǿ"
-    },
-    {
-      "index": 308,
-      "gid": "otilde",
-      "unicodeHex": "EFBA",
-      "char": ""
-    },
-    {
-      "index": 309,
-      "gid": "oe",
-      "unicodeHex": "153",
-      "char": "œ"
-    },
-    {
-      "index": 310,
-      "gid": "p",
-      "unicodeHex": "F454",
-      "char": ""
-    },
-    {
-      "index": 311,
-      "gid": "thorn",
-      "unicodeHex": "FE",
-      "char": "þ"
-    },
-    {
-      "index": 312,
-      "gid": "q",
-      "unicodeHex": "F1BC",
-      "char": ""
-    },
-    {
-      "index": 313,
-      "gid": "r",
-      "unicodeHex": "EA0A",
-      "char": ""
-    },
-    {
-      "index": 314,
-      "gid": "racute",
-      "unicodeHex": "155",
-      "char": "ŕ"
-    },
-    {
-      "index": 315,
-      "gid": "rcaron",
-      "unicodeHex": "159",
-      "char": "ř"
-    },
-    {
-      "index": 316,
-      "gid": "uni0157",
-      "unicodeHex": "157",
-      "char": "ŗ"
-    },
-    {
-      "index": 317,
-      "gid": "s",
-      "unicodeHex": "F681",
-      "char": ""
-    },
-    {
-      "index": 318,
-      "gid": "sacute",
-      "unicodeHex": "15B",
-      "char": "ś"
-    },
-    {
-      "index": 319,
-      "gid": "scaron",
-      "unicodeHex": "161",
-      "char": "š"
-    },
-    {
-      "index": 320,
-      "gid": "scedilla",
-      "unicodeHex": "15F",
-      "char": "ş"
-    },
-    {
-      "index": 321,
-      "gid": "scircumflex",
-      "unicodeHex": "15D",
-      "char": "ŝ"
-    },
-    {
-      "index": 322,
-      "gid": "uni0219",
-      "unicodeHex": "219",
-      "char": "ș"
-    },
-    {
-      "index": 323,
-      "gid": "germandbls",
-      "unicodeHex": "DF",
-      "char": "ß"
-    },
-    {
-      "index": 324,
-      "gid": "longs",
-      "unicodeHex": "17F",
-      "char": "ſ"
-    },
-    {
-      "index": 325,
-      "gid": "t",
-      "unicodeHex": "EAA5",
-      "char": ""
-    },
-    {
-      "index": 326,
-      "gid": "tbar",
-      "unicodeHex": "167",
-      "char": "ŧ"
-    },
-    {
-      "index": 327,
-      "gid": "tcaron",
-      "unicodeHex": "165",
-      "char": "ť"
-    },
-    {
-      "index": 328,
-      "gid": "uni0163",
-      "unicodeHex": "163",
-      "char": "ţ"
-    },
-    {
-      "index": 329,
-      "gid": "uni021B",
-      "unicodeHex": "21B",
-      "char": "ț"
-    },
-    {
-      "index": 330,
-      "gid": "u",
-      "unicodeHex": "EBDD",
-      "char": ""
-    },
-    {
-      "index": 331,
-      "gid": "uacute",
-      "unicodeHex": "EC14",
-      "char": ""
-    },
-    {
-      "index": 332,
-      "gid": "ubreve",
-      "unicodeHex": "16D",
-      "char": "ŭ"
-    },
-    {
-      "index": 333,
-      "gid": "uni01D4",
-      "unicodeHex": "1D4",
-      "char": "ǔ"
-    },
-    {
-      "index": 334,
-      "gid": "ucircumflex",
-      "unicodeHex": "FB",
-      "char": "û"
-    },
-    {
-      "index": 335,
-      "gid": "udieresis",
-      "unicodeHex": "FC",
-      "char": "ü"
-    },
-    {
-      "index": 336,
-      "gid": "uni1EE5",
-      "unicodeHex": "EE7A",
-      "char": ""
-    },
-    {
-      "index": 337,
-      "gid": "ugrave",
-      "unicodeHex": "F0A0",
-      "char": ""
-    },
-    {
-      "index": 338,
-      "gid": "uni1EE7",
-      "unicodeHex": "E7DE",
-      "char": ""
-    },
-    {
-      "index": 339,
-      "gid": "uhorn",
-      "unicodeHex": "E181",
-      "char": ""
-    },
-    {
-      "index": 340,
-      "gid": "uni1EE9",
-      "unicodeHex": "E782",
-      "char": ""
-    },
-    {
-      "index": 341,
-      "gid": "uni1EF1",
-      "unicodeHex": "E243",
-      "char": ""
-    },
-    {
-      "index": 342,
-      "gid": "uni1EEB",
-      "unicodeHex": "F5AE",
-      "char": ""
-    },
-    {
-      "index": 343,
-      "gid": "uni1EED",
-      "unicodeHex": "E15C",
-      "char": ""
-    },
-    {
-      "index": 344,
-      "gid": "uni1EEF",
-      "unicodeHex": "F8B6",
-      "char": ""
-    },
-    {
-      "index": 345,
-      "gid": "uhungarumlaut",
-      "unicodeHex": "171",
-      "char": "ű"
-    },
-    {
-      "index": 346,
-      "gid": "umacron",
-      "unicodeHex": "16B",
-      "char": "ū"
-    },
-    {
-      "index": 347,
-      "gid": "uogonek",
-      "unicodeHex": "173",
-      "char": "ų"
-    },
-    {
-      "index": 348,
-      "gid": "uring",
-      "unicodeHex": "16F",
-      "char": "ů"
-    },
-    {
-      "index": 349,
-      "gid": "utilde",
-      "unicodeHex": "E76E",
-      "char": ""
-    },
-    {
-      "index": 350,
-      "gid": "v",
-      "unicodeHex": "EE00",
-      "char": ""
-    },
-    {
-      "index": 351,
-      "gid": "w",
-      "unicodeHex": "E299",
-      "char": ""
-    },
-    {
-      "index": 352,
-      "gid": "wacute",
-      "unicodeHex": "1E83",
-      "char": "ẃ"
-    },
-    {
-      "index": 353,
-      "gid": "wcircumflex",
-      "unicodeHex": "175",
-      "char": "ŵ"
-    },
-    {
-      "index": 354,
-      "gid": "wdieresis",
-      "unicodeHex": "1E85",
-      "char": "ẅ"
-    },
-    {
-      "index": 355,
-      "gid": "wgrave",
-      "unicodeHex": "1E81",
-      "char": "ẁ"
-    },
-    {
-      "index": 356,
-      "gid": "x",
-      "unicodeHex": "E634",
-      "char": ""
-    },
-    {
-      "index": 357,
-      "gid": "y",
-      "unicodeHex": "F4D1",
-      "char": ""
-    },
-    {
-      "index": 358,
-      "gid": "yacute",
-      "unicodeHex": "E099",
-      "char": ""
-    },
-    {
-      "index": 359,
-      "gid": "ycircumflex",
-      "unicodeHex": "177",
-      "char": "ŷ"
-    },
-    {
-      "index": 360,
-      "gid": "ydieresis",
-      "unicodeHex": "FF",
-      "char": "ÿ"
-    },
-    {
-      "index": 361,
-      "gid": "uni1EF5",
-      "unicodeHex": "E70E",
-      "char": ""
-    },
-    {
-      "index": 362,
-      "gid": "ygrave",
-      "unicodeHex": "F46F",
-      "char": ""
-    },
-    {
-      "index": 363,
-      "gid": "uni1EF7",
-      "unicodeHex": "F4CE",
-      "char": ""
-    },
-    {
-      "index": 364,
-      "gid": "uni1EF9",
-      "unicodeHex": "E2DC",
-      "char": ""
-    },
-    {
-      "index": 365,
-      "gid": "z",
-      "unicodeHex": "F664",
-      "char": ""
-    },
-    {
-      "index": 366,
-      "gid": "zacute",
-      "unicodeHex": "17A",
-      "char": "ź"
-    },
-    {
-      "index": 367,
-      "gid": "zcaron",
-      "unicodeHex": "17E",
-      "char": "ž"
-    },
-    {
-      "index": 368,
-      "gid": "zdotaccent",
-      "unicodeHex": "17C",
-      "char": "ż"
-    },
-    {
-      "index": 369,
-      "gid": "fi",
-      "unicodeHex": "FB01",
-      "char": "ﬁ"
-    },
-    {
-      "index": 370,
-      "gid": "fl",
-      "unicodeHex": "FB02",
-      "char": "ﬂ"
-    },
-    {
-      "index": 371,
-      "gid": "ordfeminine",
-      "unicodeHex": "AA",
-      "char": "ª"
-    },
-    {
-      "index": 372,
-      "gid": "ordmasculine",
-      "unicodeHex": "BA",
-      "char": "º"
-    },
-    {
-      "index": 373,
-      "gid": "uni0410",
-      "unicodeHex": "410",
-      "char": "А"
-    },
-    {
-      "index": 374,
-      "gid": "uni0411",
-      "unicodeHex": "411",
-      "char": "Б"
-    },
-    {
-      "index": 375,
-      "gid": "uni0412",
-      "unicodeHex": "412",
-      "char": "В"
-    },
-    {
-      "index": 376,
-      "gid": "uni0413",
-      "unicodeHex": "413",
-      "char": "Г"
-    },
-    {
-      "index": 377,
-      "gid": "uni0403",
-      "unicodeHex": "403",
-      "char": "Ѓ"
-    },
-    {
-      "index": 378,
-      "gid": "Geupturncy",
-      "unicodeHex": "490",
-      "char": "Ґ"
-    },
-    {
-      "index": 379,
-      "gid": "uni04F6",
-      "unicodeHex": "4F6",
-      "char": "Ӷ"
-    },
-    {
-      "index": 380,
-      "gid": "Gestrokecy",
-      "unicodeHex": "492",
-      "char": "Ғ"
-    },
-    {
-      "index": 381,
-      "gid": "Gemiddlehookcy",
-      "unicodeHex": "494",
-      "char": "Ҕ"
-    },
-    {
-      "index": 382,
-      "gid": "uni0414",
-      "unicodeHex": "414",
-      "char": "Д"
-    },
-    {
-      "index": 383,
-      "gid": "uni0415",
-      "unicodeHex": "415",
-      "char": "Е"
-    },
-    {
-      "index": 384,
-      "gid": "uni0400",
-      "unicodeHex": "400",
-      "char": "Ѐ"
-    },
-    {
-      "index": 385,
-      "gid": "uni0401",
-      "unicodeHex": "401",
-      "char": "Ё"
-    },
-    {
-      "index": 386,
-      "gid": "uni0416",
-      "unicodeHex": "416",
-      "char": "Ж"
-    },
-    {
-      "index": 387,
-      "gid": "uni0417",
-      "unicodeHex": "417",
-      "char": "З"
-    },
-    {
-      "index": 388,
-      "gid": "uni0418",
-      "unicodeHex": "418",
-      "char": "И"
-    },
-    {
-      "index": 389,
-      "gid": "uni0419",
-      "unicodeHex": "419",
-      "char": "Й"
-    },
-    {
-      "index": 390,
-      "gid": "uni040D",
-      "unicodeHex": "40D",
-      "char": "Ѝ"
-    },
-    {
-      "index": 391,
-      "gid": "uni048A",
-      "unicodeHex": "48A",
-      "char": "Ҋ"
-    },
-    {
-      "index": 392,
-      "gid": "uni041A",
-      "unicodeHex": "41A",
-      "char": "К"
-    },
-    {
-      "index": 393,
-      "gid": "uni040C",
-      "unicodeHex": "40C",
-      "char": "Ќ"
-    },
-    {
-      "index": 394,
-      "gid": "uni041B",
-      "unicodeHex": "41B",
-      "char": "Л"
-    },
-    {
-      "index": 395,
-      "gid": "uni041C",
-      "unicodeHex": "41C",
-      "char": "М"
-    },
-    {
-      "index": 396,
-      "gid": "uni041D",
-      "unicodeHex": "41D",
-      "char": "Н"
-    },
-    {
-      "index": 397,
-      "gid": "uni041E",
-      "unicodeHex": "41E",
-      "char": "О"
-    },
-    {
-      "index": 398,
-      "gid": "uni041F",
-      "unicodeHex": "41F",
-      "char": "П"
-    },
-    {
-      "index": 399,
-      "gid": "uni0420",
-      "unicodeHex": "420",
-      "char": "Р"
-    },
-    {
-      "index": 400,
-      "gid": "uni0421",
-      "unicodeHex": "421",
-      "char": "С"
-    },
-    {
-      "index": 401,
-      "gid": "uni0422",
-      "unicodeHex": "422",
-      "char": "Т"
-    },
-    {
-      "index": 402,
-      "gid": "uni0423",
-      "unicodeHex": "423",
-      "char": "У"
-    },
-    {
-      "index": 403,
-      "gid": "uni040E",
-      "unicodeHex": "40E",
-      "char": "Ў"
-    },
-    {
-      "index": 404,
-      "gid": "uni0424",
-      "unicodeHex": "424",
-      "char": "Ф"
-    },
-    {
-      "index": 405,
-      "gid": "uni0425",
-      "unicodeHex": "425",
-      "char": "Х"
-    },
-    {
-      "index": 406,
-      "gid": "uni0427",
-      "unicodeHex": "427",
-      "char": "Ч"
-    },
-    {
-      "index": 407,
-      "gid": "uni0426",
-      "unicodeHex": "426",
-      "char": "Ц"
-    },
-    {
-      "index": 408,
-      "gid": "uni0428",
-      "unicodeHex": "428",
-      "char": "Ш"
-    },
-    {
-      "index": 409,
-      "gid": "uni0429",
-      "unicodeHex": "429",
-      "char": "Щ"
-    },
-    {
-      "index": 410,
-      "gid": "uni040F",
-      "unicodeHex": "40F",
-      "char": "Џ"
-    },
-    {
-      "index": 411,
-      "gid": "uni042C",
-      "unicodeHex": "42C",
-      "char": "Ь"
-    },
-    {
-      "index": 412,
-      "gid": "uni042B",
-      "unicodeHex": "42B",
-      "char": "Ы"
-    },
-    {
-      "index": 413,
-      "gid": "uni042A",
-      "unicodeHex": "42A",
-      "char": "Ъ"
-    },
-    {
-      "index": 414,
-      "gid": "uni0409",
-      "unicodeHex": "409",
-      "char": "Љ"
-    },
-    {
-      "index": 415,
-      "gid": "uni040A",
-      "unicodeHex": "40A",
-      "char": "Њ"
-    },
-    {
-      "index": 416,
-      "gid": "uni0405",
-      "unicodeHex": "405",
-      "char": "Ѕ"
-    },
-    {
-      "index": 417,
-      "gid": "uni0404",
-      "unicodeHex": "404",
-      "char": "Є"
-    },
-    {
-      "index": 418,
-      "gid": "uni042D",
-      "unicodeHex": "42D",
-      "char": "Э"
-    },
-    {
-      "index": 419,
-      "gid": "uni0406",
-      "unicodeHex": "406",
-      "char": "І"
-    },
-    {
-      "index": 420,
-      "gid": "uni0407",
-      "unicodeHex": "407",
-      "char": "Ї"
-    },
-    {
-      "index": 421,
-      "gid": "uni0408",
-      "unicodeHex": "408",
-      "char": "Ј"
-    },
-    {
-      "index": 422,
-      "gid": "uni040B",
-      "unicodeHex": "40B",
-      "char": "Ћ"
-    },
-    {
-      "index": 423,
-      "gid": "Yucy",
-      "unicodeHex": "42E",
-      "char": "Ю"
-    },
-    {
-      "index": 424,
-      "gid": "Yacy",
-      "unicodeHex": "42F",
-      "char": "Я"
-    },
-    {
-      "index": 425,
-      "gid": "uni0402",
-      "unicodeHex": "402",
-      "char": "Ђ"
-    },
-    {
-      "index": 426,
-      "gid": "uni0462",
-      "unicodeHex": "462",
-      "char": "Ѣ"
-    },
-    {
-      "index": 427,
-      "gid": "uni046A",
-      "unicodeHex": "46A",
-      "char": "Ѫ"
-    },
-    {
-      "index": 428,
-      "gid": "uni046C",
-      "unicodeHex": "46C",
-      "char": "Ѭ"
-    },
-    {
-      "index": 429,
-      "gid": "uni0472",
-      "unicodeHex": "472",
-      "char": "Ѳ"
-    },
-    {
-      "index": 430,
-      "gid": "uni0474",
-      "unicodeHex": "474",
-      "char": "Ѵ"
-    },
-    {
-      "index": 431,
-      "gid": "uni0496",
-      "unicodeHex": "496",
-      "char": "Җ"
-    },
-    {
-      "index": 432,
-      "gid": "uni0498",
-      "unicodeHex": "498",
-      "char": "Ҙ"
-    },
-    {
-      "index": 433,
-      "gid": "uni049A",
-      "unicodeHex": "49A",
-      "char": "Қ"
-    },
-    {
-      "index": 434,
-      "gid": "uni049C",
-      "unicodeHex": "49C",
-      "char": "Ҝ"
-    },
-    {
-      "index": 435,
-      "gid": "uni049E",
-      "unicodeHex": "49E",
-      "char": "Ҟ"
-    },
-    {
-      "index": 436,
-      "gid": "uni04A0",
-      "unicodeHex": "4A0",
-      "char": "Ҡ"
-    },
-    {
-      "index": 437,
-      "gid": "uni04A2",
-      "unicodeHex": "4A2",
-      "char": "Ң"
-    },
-    {
-      "index": 438,
-      "gid": "EnGecy",
-      "unicodeHex": "4A4",
-      "char": "Ҥ"
-    },
-    {
-      "index": 439,
-      "gid": "uni04A6",
-      "unicodeHex": "4A6",
-      "char": "Ҧ"
-    },
-    {
-      "index": 440,
-      "gid": "uni0524",
-      "unicodeHex": "524",
-      "char": "Ԥ"
-    },
-    {
-      "index": 441,
-      "gid": "uni04A8",
-      "unicodeHex": "4A8",
-      "char": "Ҩ"
-    },
-    {
-      "index": 442,
-      "gid": "uni04AA",
-      "unicodeHex": "4AA",
-      "char": "Ҫ"
-    },
-    {
-      "index": 443,
-      "gid": "uni04AC",
-      "unicodeHex": "4AC",
-      "char": "Ҭ"
-    },
-    {
-      "index": 444,
-      "gid": "uni04AE",
-      "unicodeHex": "4AE",
-      "char": "Ү"
-    },
-    {
-      "index": 445,
-      "gid": "uni04B0",
-      "unicodeHex": "4B0",
-      "char": "Ұ"
-    },
-    {
-      "index": 446,
-      "gid": "uni04B2",
-      "unicodeHex": "4B2",
-      "char": "Ҳ"
-    },
-    {
-      "index": 447,
-      "gid": "uni04B4",
-      "unicodeHex": "4B4",
-      "char": "Ҵ"
-    },
-    {
-      "index": 448,
-      "gid": "uni04B6",
-      "unicodeHex": "4B6",
-      "char": "Ҷ"
-    },
-    {
-      "index": 449,
-      "gid": "uni04B8",
-      "unicodeHex": "4B8",
-      "char": "Ҹ"
-    },
-    {
-      "index": 450,
-      "gid": "uni04BA",
-      "unicodeHex": "4BA",
-      "char": "Һ"
-    },
-    {
-      "index": 451,
-      "gid": "uni0526",
-      "unicodeHex": "526",
-      "char": "Ԧ"
-    },
-    {
-      "index": 452,
-      "gid": "uni04BC",
-      "unicodeHex": "4BC",
-      "char": "Ҽ"
-    },
-    {
-      "index": 453,
-      "gid": "uni04BE",
-      "unicodeHex": "4BE",
-      "char": "Ҿ"
-    },
-    {
-      "index": 454,
-      "gid": "uni04C0",
-      "unicodeHex": "4C0",
-      "char": "Ӏ"
-    },
-    {
-      "index": 455,
-      "gid": "uni04C1",
-      "unicodeHex": "4C1",
-      "char": "Ӂ"
-    },
-    {
-      "index": 456,
-      "gid": "uni04C3",
-      "unicodeHex": "4C3",
-      "char": "Ӄ"
-    },
-    {
-      "index": 457,
-      "gid": "uni04C5",
-      "unicodeHex": "4C5",
-      "char": "Ӆ"
-    },
-    {
-      "index": 458,
-      "gid": "uni04C7",
-      "unicodeHex": "4C7",
-      "char": "Ӈ"
-    },
-    {
-      "index": 459,
-      "gid": "uni04C9",
-      "unicodeHex": "4C9",
-      "char": "Ӊ"
-    },
-    {
-      "index": 460,
-      "gid": "uni04CB",
-      "unicodeHex": "4CB",
-      "char": "Ӌ"
-    },
-    {
-      "index": 461,
-      "gid": "uni04CD",
-      "unicodeHex": "4CD",
-      "char": "Ӎ"
-    },
-    {
-      "index": 462,
-      "gid": "uni04D0",
-      "unicodeHex": "4D0",
-      "char": "Ӑ"
-    },
-    {
-      "index": 463,
-      "gid": "uni04D2",
-      "unicodeHex": "4D2",
-      "char": "Ӓ"
-    },
-    {
-      "index": 464,
-      "gid": "uni04D4",
-      "unicodeHex": "4D4",
-      "char": "Ӕ"
-    },
-    {
-      "index": 465,
-      "gid": "uni04D6",
-      "unicodeHex": "4D6",
-      "char": "Ӗ"
-    },
-    {
-      "index": 466,
-      "gid": "uni04D8",
-      "unicodeHex": "4D8",
-      "char": "Ә"
-    },
-    {
-      "index": 467,
-      "gid": "uni04DA",
-      "unicodeHex": "4DA",
-      "char": "Ӛ"
-    },
-    {
-      "index": 468,
-      "gid": "uni04DC",
-      "unicodeHex": "4DC",
-      "char": "Ӝ"
-    },
-    {
-      "index": 469,
-      "gid": "uni04DE",
-      "unicodeHex": "4DE",
-      "char": "Ӟ"
-    },
-    {
-      "index": 470,
-      "gid": "uni04E0",
-      "unicodeHex": "4E0",
-      "char": "Ӡ"
-    },
-    {
-      "index": 471,
-      "gid": "uni04E2",
-      "unicodeHex": "4E2",
-      "char": "Ӣ"
-    },
-    {
-      "index": 472,
-      "gid": "uni04E4",
-      "unicodeHex": "4E4",
-      "char": "Ӥ"
-    },
-    {
-      "index": 473,
-      "gid": "uni04E6",
-      "unicodeHex": "4E6",
-      "char": "Ӧ"
-    },
-    {
-      "index": 474,
-      "gid": "uni04E8",
-      "unicodeHex": "4E8",
-      "char": "Ө"
-    },
-    {
-      "index": 475,
-      "gid": "uni04EA",
-      "unicodeHex": "4EA",
-      "char": "Ӫ"
-    },
-    {
-      "index": 476,
-      "gid": "uni04EC",
-      "unicodeHex": "4EC",
-      "char": "Ӭ"
-    },
-    {
-      "index": 477,
-      "gid": "uni04EE",
-      "unicodeHex": "4EE",
-      "char": "Ӯ"
-    },
-    {
-      "index": 478,
-      "gid": "uni04F0",
-      "unicodeHex": "4F0",
-      "char": "Ӱ"
-    },
-    {
-      "index": 479,
-      "gid": "uni04F2",
-      "unicodeHex": "4F2",
-      "char": "Ӳ"
-    },
-    {
-      "index": 480,
-      "gid": "uni04F4",
-      "unicodeHex": "4F4",
-      "char": "Ӵ"
-    },
-    {
-      "index": 481,
-      "gid": "uni04F8",
-      "unicodeHex": "4F8",
-      "char": "Ӹ"
-    },
-    {
-      "index": 482,
-      "gid": "uni04FA",
-      "unicodeHex": "4FA",
-      "char": "Ӻ"
-    },
-    {
-      "index": 483,
-      "gid": "uni04FC",
-      "unicodeHex": "4FC",
-      "char": "Ӽ"
-    },
-    {
-      "index": 484,
-      "gid": "uni04FE",
-      "unicodeHex": "4FE",
-      "char": "Ӿ"
-    },
-    {
-      "index": 485,
-      "gid": "uni0510",
-      "unicodeHex": "510",
-      "char": "Ԑ"
-    },
-    {
-      "index": 486,
-      "gid": "uni0512",
-      "unicodeHex": "512",
-      "char": "Ԓ"
-    },
-    {
-      "index": 487,
-      "gid": "uni051A",
-      "unicodeHex": "51A",
-      "char": "Ԛ"
-    },
-    {
-      "index": 488,
-      "gid": "uni051C",
-      "unicodeHex": "51C",
-      "char": "Ԝ"
-    },
-    {
-      "index": 489,
-      "gid": "uni048C",
-      "unicodeHex": "48C",
-      "char": "Ҍ"
-    },
-    {
-      "index": 490,
-      "gid": "uni048E",
-      "unicodeHex": "48E",
-      "char": "Ҏ"
-    },
-    {
-      "index": 491,
-      "gid": "uni0528",
-      "unicodeHex": "528",
-      "char": "Ԩ"
-    },
-    {
-      "index": 492,
-      "gid": "uni052E",
-      "unicodeHex": "52E",
-      "char": "Ԯ"
-    },
-    {
-      "index": 493,
-      "gid": "uni0414.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 494,
-      "gid": "uni041B.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 495,
-      "gid": "uni0424.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 496,
-      "gid": "Gestrokecy.loclBSH",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 497,
-      "gid": "uni0498.loclBSH",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 498,
-      "gid": "uni04AA.loclBSH",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 499,
-      "gid": "uni04AA.loclCHU",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 500,
-      "gid": "uni0430",
-      "unicodeHex": "430",
-      "char": "а"
-    },
-    {
-      "index": 501,
-      "gid": "uni0431",
-      "unicodeHex": "431",
-      "char": "б"
-    },
-    {
-      "index": 502,
-      "gid": "uni0432",
-      "unicodeHex": "432",
-      "char": "в"
-    },
-    {
-      "index": 503,
-      "gid": "uni0433",
-      "unicodeHex": "433",
-      "char": "г"
-    },
-    {
-      "index": 504,
-      "gid": "uni0453",
-      "unicodeHex": "453",
-      "char": "ѓ"
-    },
-    {
-      "index": 505,
-      "gid": "geupturncy",
-      "unicodeHex": "491",
-      "char": "ґ"
-    },
-    {
-      "index": 506,
-      "gid": "uni04F7",
-      "unicodeHex": "4F7",
-      "char": "ӷ"
-    },
-    {
-      "index": 507,
-      "gid": "gestrokecy",
-      "unicodeHex": "493",
-      "char": "ғ"
-    },
-    {
-      "index": 508,
-      "gid": "gemiddlehookcy",
-      "unicodeHex": "495",
-      "char": "ҕ"
-    },
-    {
-      "index": 509,
-      "gid": "uni0434",
-      "unicodeHex": "434",
-      "char": "д"
-    },
-    {
-      "index": 510,
-      "gid": "uni0435",
-      "unicodeHex": "435",
-      "char": "е"
-    },
-    {
-      "index": 511,
-      "gid": "uni0450",
-      "unicodeHex": "450",
-      "char": "ѐ"
-    },
-    {
-      "index": 512,
-      "gid": "uni0451",
-      "unicodeHex": "451",
-      "char": "ё"
-    },
-    {
-      "index": 513,
-      "gid": "uni0436",
-      "unicodeHex": "436",
-      "char": "ж"
-    },
-    {
-      "index": 514,
-      "gid": "uni0437",
-      "unicodeHex": "437",
-      "char": "з"
-    },
-    {
-      "index": 515,
-      "gid": "uni0438",
-      "unicodeHex": "438",
-      "char": "и"
-    },
-    {
-      "index": 516,
-      "gid": "uni0439",
-      "unicodeHex": "439",
-      "char": "й"
-    },
-    {
-      "index": 517,
-      "gid": "uni045D",
-      "unicodeHex": "45D",
-      "char": "ѝ"
-    },
-    {
-      "index": 518,
-      "gid": "uni048B",
-      "unicodeHex": "48B",
-      "char": "ҋ"
-    },
-    {
-      "index": 519,
-      "gid": "uni043A",
-      "unicodeHex": "43A",
-      "char": "к"
-    },
-    {
-      "index": 520,
-      "gid": "uni045C",
-      "unicodeHex": "45C",
-      "char": "ќ"
-    },
-    {
-      "index": 521,
-      "gid": "uni043B",
-      "unicodeHex": "43B",
-      "char": "л"
-    },
-    {
-      "index": 522,
-      "gid": "uni043C",
-      "unicodeHex": "43C",
-      "char": "м"
-    },
-    {
-      "index": 523,
-      "gid": "uni043D",
-      "unicodeHex": "43D",
-      "char": "н"
-    },
-    {
-      "index": 524,
-      "gid": "uni043E",
-      "unicodeHex": "43E",
-      "char": "о"
-    },
-    {
-      "index": 525,
-      "gid": "uni043F",
-      "unicodeHex": "43F",
-      "char": "п"
-    },
-    {
-      "index": 526,
-      "gid": "uni0440",
-      "unicodeHex": "440",
-      "char": "р"
-    },
-    {
-      "index": 527,
-      "gid": "uni0441",
-      "unicodeHex": "441",
-      "char": "с"
-    },
-    {
-      "index": 528,
-      "gid": "uni0442",
-      "unicodeHex": "442",
-      "char": "т"
-    },
-    {
-      "index": 529,
-      "gid": "uni0443",
-      "unicodeHex": "443",
-      "char": "у"
-    },
-    {
-      "index": 530,
-      "gid": "uni045E",
-      "unicodeHex": "45E",
-      "char": "ў"
-    },
-    {
-      "index": 531,
-      "gid": "uni0444",
-      "unicodeHex": "444",
-      "char": "ф"
-    },
-    {
-      "index": 532,
-      "gid": "uni0445",
-      "unicodeHex": "445",
-      "char": "х"
-    },
-    {
-      "index": 533,
-      "gid": "uni0447",
-      "unicodeHex": "447",
-      "char": "ч"
-    },
-    {
-      "index": 534,
-      "gid": "uni0446",
-      "unicodeHex": "446",
-      "char": "ц"
-    },
-    {
-      "index": 535,
-      "gid": "uni0448",
-      "unicodeHex": "448",
-      "char": "ш"
-    },
-    {
-      "index": 536,
-      "gid": "uni0449",
-      "unicodeHex": "449",
-      "char": "щ"
-    },
-    {
-      "index": 537,
-      "gid": "uni045F",
-      "unicodeHex": "45F",
-      "char": "џ"
-    },
-    {
-      "index": 538,
-      "gid": "uni044C",
-      "unicodeHex": "44C",
-      "char": "ь"
-    },
-    {
-      "index": 539,
-      "gid": "uni044B",
-      "unicodeHex": "44B",
-      "char": "ы"
-    },
-    {
-      "index": 540,
-      "gid": "uni044A",
-      "unicodeHex": "44A",
-      "char": "ъ"
-    },
-    {
-      "index": 541,
-      "gid": "uni0459",
-      "unicodeHex": "459",
-      "char": "љ"
-    },
-    {
-      "index": 542,
-      "gid": "uni045A",
-      "unicodeHex": "45A",
-      "char": "њ"
-    },
-    {
-      "index": 543,
-      "gid": "uni0455",
-      "unicodeHex": "455",
-      "char": "ѕ"
-    },
-    {
-      "index": 544,
-      "gid": "uni0454",
-      "unicodeHex": "454",
-      "char": "є"
-    },
-    {
-      "index": 545,
-      "gid": "uni044D",
-      "unicodeHex": "44D",
-      "char": "э"
-    },
-    {
-      "index": 546,
-      "gid": "uni0456",
-      "unicodeHex": "456",
-      "char": "і"
-    },
-    {
-      "index": 547,
-      "gid": "uni0457",
-      "unicodeHex": "457",
-      "char": "ї"
-    },
-    {
-      "index": 548,
-      "gid": "uni0458",
-      "unicodeHex": "458",
-      "char": "ј"
-    },
-    {
-      "index": 549,
-      "gid": "uni045B",
-      "unicodeHex": "45B",
-      "char": "ћ"
-    },
-    {
-      "index": 550,
-      "gid": "yucy",
-      "unicodeHex": "44E",
-      "char": "ю"
-    },
-    {
-      "index": 551,
-      "gid": "yacy",
-      "unicodeHex": "44F",
-      "char": "я"
-    },
-    {
-      "index": 552,
-      "gid": "uni0452",
-      "unicodeHex": "452",
-      "char": "ђ"
-    },
-    {
-      "index": 553,
-      "gid": "uni0463",
-      "unicodeHex": "463",
-      "char": "ѣ"
-    },
-    {
-      "index": 554,
-      "gid": "uni046B",
-      "unicodeHex": "46B",
-      "char": "ѫ"
-    },
-    {
-      "index": 555,
-      "gid": "uni046D",
-      "unicodeHex": "46D",
-      "char": "ѭ"
-    },
-    {
-      "index": 556,
-      "gid": "uni0473",
-      "unicodeHex": "473",
-      "char": "ѳ"
-    },
-    {
-      "index": 557,
-      "gid": "uni0475",
-      "unicodeHex": "475",
-      "char": "ѵ"
-    },
-    {
-      "index": 558,
-      "gid": "uni0497",
-      "unicodeHex": "497",
-      "char": "җ"
-    },
-    {
-      "index": 559,
-      "gid": "uni0499",
-      "unicodeHex": "499",
-      "char": "ҙ"
-    },
-    {
-      "index": 560,
-      "gid": "uni049B",
-      "unicodeHex": "49B",
-      "char": "қ"
-    },
-    {
-      "index": 561,
-      "gid": "uni049D",
-      "unicodeHex": "49D",
-      "char": "ҝ"
-    },
-    {
-      "index": 562,
-      "gid": "uni049F",
-      "unicodeHex": "49F",
-      "char": "ҟ"
-    },
-    {
-      "index": 563,
-      "gid": "uni04A1",
-      "unicodeHex": "4A1",
-      "char": "ҡ"
-    },
-    {
-      "index": 564,
-      "gid": "uni04A3",
-      "unicodeHex": "4A3",
-      "char": "ң"
-    },
-    {
-      "index": 565,
-      "gid": "engecy",
-      "unicodeHex": "4A5",
-      "char": "ҥ"
-    },
-    {
-      "index": 566,
-      "gid": "uni0525",
-      "unicodeHex": "525",
-      "char": "ԥ"
-    },
-    {
-      "index": 567,
-      "gid": "uni04A7",
-      "unicodeHex": "4A7",
-      "char": "ҧ"
-    },
-    {
-      "index": 568,
-      "gid": "uni04A9",
-      "unicodeHex": "4A9",
-      "char": "ҩ"
-    },
-    {
-      "index": 569,
-      "gid": "uni04AB",
-      "unicodeHex": "4AB",
-      "char": "ҫ"
-    },
-    {
-      "index": 570,
-      "gid": "uni04AD",
-      "unicodeHex": "4AD",
-      "char": "ҭ"
-    },
-    {
-      "index": 571,
-      "gid": "uni04AF",
-      "unicodeHex": "4AF",
-      "char": "ү"
-    },
-    {
-      "index": 572,
-      "gid": "uni04B1",
-      "unicodeHex": "4B1",
-      "char": "ұ"
-    },
-    {
-      "index": 573,
-      "gid": "uni04B3",
-      "unicodeHex": "4B3",
-      "char": "ҳ"
-    },
-    {
-      "index": 574,
-      "gid": "uni04B5",
-      "unicodeHex": "4B5",
-      "char": "ҵ"
-    },
-    {
-      "index": 575,
-      "gid": "uni04B7",
-      "unicodeHex": "4B7",
-      "char": "ҷ"
-    },
-    {
-      "index": 576,
-      "gid": "uni04B9",
-      "unicodeHex": "4B9",
-      "char": "ҹ"
-    },
-    {
-      "index": 577,
-      "gid": "uni04BB",
-      "unicodeHex": "4BB",
-      "char": "һ"
-    },
-    {
-      "index": 578,
-      "gid": "uni0527",
-      "unicodeHex": "527",
-      "char": "ԧ"
-    },
-    {
-      "index": 579,
-      "gid": "uni04BD",
-      "unicodeHex": "4BD",
-      "char": "ҽ"
-    },
-    {
-      "index": 580,
-      "gid": "uni04BF",
-      "unicodeHex": "4BF",
-      "char": "ҿ"
-    },
-    {
-      "index": 581,
-      "gid": "uni04CF",
-      "unicodeHex": "4CF",
-      "char": "ӏ"
-    },
-    {
-      "index": 582,
-      "gid": "uni04C2",
-      "unicodeHex": "4C2",
-      "char": "ӂ"
-    },
-    {
-      "index": 583,
-      "gid": "uni04C4",
-      "unicodeHex": "4C4",
-      "char": "ӄ"
-    },
-    {
-      "index": 584,
-      "gid": "uni04C6",
-      "unicodeHex": "4C6",
-      "char": "ӆ"
-    },
-    {
-      "index": 585,
-      "gid": "uni04C8",
-      "unicodeHex": "4C8",
-      "char": "ӈ"
-    },
-    {
-      "index": 586,
-      "gid": "uni04CA",
-      "unicodeHex": "4CA",
-      "char": "ӊ"
-    },
-    {
-      "index": 587,
-      "gid": "uni04CC",
-      "unicodeHex": "4CC",
-      "char": "ӌ"
-    },
-    {
-      "index": 588,
-      "gid": "uni04CE",
-      "unicodeHex": "4CE",
-      "char": "ӎ"
-    },
-    {
-      "index": 589,
-      "gid": "uni04D1",
-      "unicodeHex": "4D1",
-      "char": "ӑ"
-    },
-    {
-      "index": 590,
-      "gid": "uni04D3",
-      "unicodeHex": "4D3",
-      "char": "ӓ"
-    },
-    {
-      "index": 591,
-      "gid": "uni04D5",
-      "unicodeHex": "4D5",
-      "char": "ӕ"
-    },
-    {
-      "index": 592,
-      "gid": "uni04D7",
-      "unicodeHex": "4D7",
-      "char": "ӗ"
-    },
-    {
-      "index": 593,
-      "gid": "uni04D9",
-      "unicodeHex": "4D9",
-      "char": "ә"
-    },
-    {
-      "index": 594,
-      "gid": "uni04DB",
-      "unicodeHex": "4DB",
-      "char": "ӛ"
-    },
-    {
-      "index": 595,
-      "gid": "uni04DD",
-      "unicodeHex": "4DD",
-      "char": "ӝ"
-    },
-    {
-      "index": 596,
-      "gid": "uni04DF",
-      "unicodeHex": "4DF",
-      "char": "ӟ"
-    },
-    {
-      "index": 597,
-      "gid": "uni04E1",
-      "unicodeHex": "4E1",
-      "char": "ӡ"
-    },
-    {
-      "index": 598,
-      "gid": "uni04E3",
-      "unicodeHex": "4E3",
-      "char": "ӣ"
-    },
-    {
-      "index": 599,
-      "gid": "uni04E5",
-      "unicodeHex": "4E5",
-      "char": "ӥ"
-    },
-    {
-      "index": 600,
-      "gid": "uni04E7",
-      "unicodeHex": "4E7",
-      "char": "ӧ"
-    },
-    {
-      "index": 601,
-      "gid": "uni04E9",
-      "unicodeHex": "4E9",
-      "char": "ө"
-    },
-    {
-      "index": 602,
-      "gid": "uni04EB",
-      "unicodeHex": "4EB",
-      "char": "ӫ"
-    },
-    {
-      "index": 603,
-      "gid": "uni04ED",
-      "unicodeHex": "4ED",
-      "char": "ӭ"
-    },
-    {
-      "index": 604,
-      "gid": "uni04EF",
-      "unicodeHex": "4EF",
-      "char": "ӯ"
-    },
-    {
-      "index": 605,
-      "gid": "uni04F1",
-      "unicodeHex": "4F1",
-      "char": "ӱ"
-    },
-    {
-      "index": 606,
-      "gid": "uni04F3",
-      "unicodeHex": "4F3",
-      "char": "ӳ"
-    },
-    {
-      "index": 607,
-      "gid": "uni04F5",
-      "unicodeHex": "4F5",
-      "char": "ӵ"
-    },
-    {
-      "index": 608,
-      "gid": "uni04F9",
-      "unicodeHex": "4F9",
-      "char": "ӹ"
-    },
-    {
-      "index": 609,
-      "gid": "uni04FB",
-      "unicodeHex": "4FB",
-      "char": "ӻ"
-    },
-    {
-      "index": 610,
-      "gid": "uni04FD",
-      "unicodeHex": "4FD",
-      "char": "ӽ"
-    },
-    {
-      "index": 611,
-      "gid": "uni04FF",
-      "unicodeHex": "4FF",
-      "char": "ӿ"
-    },
-    {
-      "index": 612,
-      "gid": "uni0511",
-      "unicodeHex": "511",
-      "char": "ԑ"
-    },
-    {
-      "index": 613,
-      "gid": "uni0513",
-      "unicodeHex": "513",
-      "char": "ԓ"
-    },
-    {
-      "index": 614,
-      "gid": "uni051B",
-      "unicodeHex": "51B",
-      "char": "ԛ"
-    },
-    {
-      "index": 615,
-      "gid": "uni051D",
-      "unicodeHex": "51D",
-      "char": "ԝ"
-    },
-    {
-      "index": 616,
-      "gid": "uni048D",
-      "unicodeHex": "48D",
-      "char": "ҍ"
-    },
-    {
-      "index": 617,
-      "gid": "uni048F",
-      "unicodeHex": "48F",
-      "char": "ҏ"
-    },
-    {
-      "index": 618,
-      "gid": "uni0529",
-      "unicodeHex": "529",
-      "char": "ԩ"
-    },
-    {
-      "index": 619,
-      "gid": "uni052F",
-      "unicodeHex": "52F",
-      "char": "ԯ"
-    },
-    {
-      "index": 620,
-      "gid": "uni0432.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 621,
-      "gid": "uni0433.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 622,
-      "gid": "uni0434.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 623,
-      "gid": "uni0436.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 624,
-      "gid": "uni0437.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 625,
-      "gid": "uni0438.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 626,
-      "gid": "uni0439.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 627,
-      "gid": "uni045D.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 628,
-      "gid": "uni043A.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 629,
-      "gid": "uni043B.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 630,
-      "gid": "uni043D.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 631,
-      "gid": "uni043F.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 632,
-      "gid": "uni0442.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 633,
-      "gid": "uni0447.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 634,
-      "gid": "uni0446.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 635,
-      "gid": "uni0448.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 636,
-      "gid": "uni0449.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 637,
-      "gid": "uni044C.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 638,
-      "gid": "uni044A.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 639,
-      "gid": "yucy.loclBGR",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 640,
-      "gid": "gestrokecy.loclBSH",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 641,
-      "gid": "uni0499.loclBSH",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 642,
-      "gid": "uni04AB.loclBSH",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 643,
-      "gid": "uni04AB.loclCHU",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 644,
-      "gid": "uni0431.loclSRB",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 645,
-      "gid": "Gamma",
-      "unicodeHex": "393",
-      "char": "Γ"
-    },
-    {
-      "index": 646,
-      "gid": "uni0394",
-      "unicodeHex": "394",
-      "char": "Δ"
-    },
-    {
-      "index": 647,
-      "gid": "Pi",
-      "unicodeHex": "3A0",
-      "char": "Π"
-    },
-    {
-      "index": 648,
-      "gid": "uni03A9",
-      "unicodeHex": "3A9",
-      "char": "Ω"
-    },
-    {
-      "index": 649,
-      "gid": "uni03BC",
-      "unicodeHex": "3BC",
-      "char": "μ"
-    },
-    {
-      "index": 650,
-      "gid": "pi",
-      "unicodeHex": "3C0",
-      "char": "π"
-    },
-    {
-      "index": 651,
-      "gid": "zero",
-      "unicodeHex": "30",
-      "char": "0"
-    },
-    {
-      "index": 652,
-      "gid": "one",
-      "unicodeHex": "31",
-      "char": "1"
-    },
-    {
-      "index": 653,
-      "gid": "two",
-      "unicodeHex": "32",
-      "char": "2"
-    },
-    {
-      "index": 654,
-      "gid": "three",
-      "unicodeHex": "33",
-      "char": "3"
-    },
-    {
-      "index": 655,
-      "gid": "four",
-      "unicodeHex": "34",
-      "char": "4"
-    },
-    {
-      "index": 656,
-      "gid": "five",
-      "unicodeHex": "35",
-      "char": "5"
-    },
-    {
-      "index": 657,
-      "gid": "six",
-      "unicodeHex": "36",
-      "char": "6"
-    },
-    {
-      "index": 658,
-      "gid": "seven",
-      "unicodeHex": "37",
-      "char": "7"
-    },
-    {
-      "index": 659,
-      "gid": "eight",
-      "unicodeHex": "38",
-      "char": "8"
-    },
-    {
-      "index": 660,
-      "gid": "nine",
-      "unicodeHex": "39",
-      "char": "9"
-    },
-    {
-      "index": 661,
-      "gid": "zero.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 662,
-      "gid": "one.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 663,
-      "gid": "two.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 664,
-      "gid": "three.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 665,
-      "gid": "four.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 666,
-      "gid": "five.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 667,
-      "gid": "six.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 668,
-      "gid": "seven.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 669,
-      "gid": "eight.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 670,
-      "gid": "nine.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 671,
-      "gid": "fraction",
-      "unicodeHex": "2044",
-      "char": "⁄"
-    },
-    {
-      "index": 672,
-      "gid": "onehalf",
-      "unicodeHex": "BD",
-      "char": "½"
-    },
-    {
-      "index": 673,
-      "gid": "onequarter",
-      "unicodeHex": "BC",
-      "char": "¼"
-    },
-    {
-      "index": 674,
-      "gid": "threequarters",
-      "unicodeHex": "BE",
-      "char": "¾"
-    },
-    {
-      "index": 675,
-      "gid": "uni00B9",
-      "unicodeHex": "B9",
-      "char": "¹"
-    },
-    {
-      "index": 676,
-      "gid": "uni00B2",
-      "unicodeHex": "B2",
-      "char": "²"
-    },
-    {
-      "index": 677,
-      "gid": "uni00B3",
-      "unicodeHex": "B3",
-      "char": "³"
-    },
-    {
-      "index": 678,
-      "gid": "uni2074",
-      "unicodeHex": "2074",
-      "char": "⁴"
-    },
-    {
-      "index": 679,
-      "gid": "space",
-      "unicodeHex": "20",
-      "char": " "
-    },
-    {
-      "index": 680,
-      "gid": "uni00A0",
-      "unicodeHex": "A0",
-      "char": " "
-    },
-    {
-      "index": 681,
-      "gid": "CR",
-      "unicodeHex": "D",
-      "char": "\r"
-    },
-    {
-      "index": 682,
-      "gid": "space.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 683,
-      "gid": "uni27E8",
-      "unicodeHex": "27E8",
-      "char": "⟨"
-    },
-    {
-      "index": 684,
-      "gid": "uni27E9",
-      "unicodeHex": "27E9",
-      "char": "⟩"
-    },
-    {
-      "index": 685,
-      "gid": "period",
-      "unicodeHex": "2E",
-      "char": "."
-    },
-    {
-      "index": 686,
-      "gid": "comma",
-      "unicodeHex": "2C",
-      "char": ","
-    },
-    {
-      "index": 687,
-      "gid": "colon",
-      "unicodeHex": "3A",
-      "char": ":"
-    },
-    {
-      "index": 688,
-      "gid": "semicolon",
-      "unicodeHex": "3B",
-      "char": ";"
-    },
-    {
-      "index": 689,
-      "gid": "ellipsis",
-      "unicodeHex": "2026",
-      "char": "…"
-    },
-    {
-      "index": 690,
-      "gid": "exclam",
-      "unicodeHex": "21",
-      "char": "!"
-    },
-    {
-      "index": 691,
-      "gid": "exclamdown",
-      "unicodeHex": "A1",
-      "char": "¡"
-    },
-    {
-      "index": 692,
-      "gid": "question",
-      "unicodeHex": "3F",
-      "char": "?"
-    },
-    {
-      "index": 693,
-      "gid": "questiondown",
-      "unicodeHex": "BF",
-      "char": "¿"
-    },
-    {
-      "index": 694,
-      "gid": "periodcentered",
-      "unicodeHex": "B7",
-      "char": "·"
-    },
-    {
-      "index": 695,
-      "gid": "bullet",
-      "unicodeHex": "2022",
-      "char": "•"
-    },
-    {
-      "index": 696,
-      "gid": "asterisk",
-      "unicodeHex": "2A",
-      "char": "*"
-    },
-    {
-      "index": 697,
-      "gid": "numbersign",
-      "unicodeHex": "23",
-      "char": "#"
-    },
-    {
-      "index": 698,
-      "gid": "slash",
-      "unicodeHex": "2F",
-      "char": "/"
-    },
-    {
-      "index": 699,
-      "gid": "backslash",
-      "unicodeHex": "5C",
-      "char": "\\"
-    },
-    {
-      "index": 700,
-      "gid": "colon.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 701,
-      "gid": "periodcentered.loclCAT",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 702,
-      "gid": "period.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 703,
-      "gid": "comma.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 704,
-      "gid": "colon.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 705,
-      "gid": "semicolon.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 706,
-      "gid": "numbersign.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 707,
-      "gid": "colon.tf.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 708,
-      "gid": "hyphen",
-      "unicodeHex": "2D",
-      "char": "-"
-    },
-    {
-      "index": 709,
-      "gid": "endash",
-      "unicodeHex": "2013",
-      "char": "–"
-    },
-    {
-      "index": 710,
-      "gid": "emdash",
-      "unicodeHex": "2014",
-      "char": "—"
-    },
-    {
-      "index": 711,
-      "gid": "uni2010",
-      "unicodeHex": "2010",
-      "char": "‐"
-    },
-    {
-      "index": 712,
-      "gid": "underscore",
-      "unicodeHex": "5F",
-      "char": "_"
-    },
-    {
-      "index": 713,
-      "gid": "parenleft",
-      "unicodeHex": "28",
-      "char": "("
-    },
-    {
-      "index": 714,
-      "gid": "parenright",
-      "unicodeHex": "29",
-      "char": ")"
-    },
-    {
-      "index": 715,
-      "gid": "braceleft",
-      "unicodeHex": "7B",
-      "char": "{"
-    },
-    {
-      "index": 716,
-      "gid": "braceright",
-      "unicodeHex": "7D",
-      "char": "}"
-    },
-    {
-      "index": 717,
-      "gid": "bracketleft",
-      "unicodeHex": "5B",
-      "char": "["
-    },
-    {
-      "index": 718,
-      "gid": "bracketright",
-      "unicodeHex": "5D",
-      "char": "]"
-    },
-    {
-      "index": 719,
-      "gid": "quotesinglbase",
-      "unicodeHex": "201A",
-      "char": "‚"
-    },
-    {
-      "index": 720,
-      "gid": "quotedblbase",
-      "unicodeHex": "201E",
-      "char": "„"
-    },
-    {
-      "index": 721,
-      "gid": "quotedblleft",
-      "unicodeHex": "201C",
-      "char": "“"
-    },
-    {
-      "index": 722,
-      "gid": "quotedblright",
-      "unicodeHex": "201D",
-      "char": "”"
-    },
-    {
-      "index": 723,
-      "gid": "quoteleft",
-      "unicodeHex": "2018",
-      "char": "‘"
-    },
-    {
-      "index": 724,
-      "gid": "quoteright",
-      "unicodeHex": "2019",
-      "char": "’"
-    },
-    {
-      "index": 725,
-      "gid": "guillemotleft",
-      "unicodeHex": "AB",
-      "char": "«"
-    },
-    {
-      "index": 726,
-      "gid": "guillemotright",
-      "unicodeHex": "BB",
-      "char": "»"
-    },
-    {
-      "index": 727,
-      "gid": "guilsinglleft",
-      "unicodeHex": "2039",
-      "char": "‹"
-    },
-    {
-      "index": 728,
-      "gid": "guilsinglright",
-      "unicodeHex": "203A",
-      "char": "›"
-    },
-    {
-      "index": 729,
-      "gid": "quotedbl",
-      "unicodeHex": "22",
-      "char": "\""
-    },
-    {
-      "index": 730,
-      "gid": "quotesingle",
-      "unicodeHex": "27",
-      "char": "'"
-    },
-    {
-      "index": 731,
-      "gid": "florin",
-      "unicodeHex": "192",
-      "char": "ƒ"
-    },
-    {
-      "index": 732,
-      "gid": "florin.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 733,
-      "gid": "uni212B",
-      "unicodeHex": "212B",
-      "char": "Å"
-    },
-    {
-      "index": 734,
-      "gid": "at",
-      "unicodeHex": "40",
-      "char": "@"
-    },
-    {
-      "index": 735,
-      "gid": "ampersand",
-      "unicodeHex": "26",
-      "char": "&"
-    },
-    {
-      "index": 736,
-      "gid": "paragraph",
-      "unicodeHex": "B6",
-      "char": "¶"
-    },
-    {
-      "index": 737,
-      "gid": "section",
-      "unicodeHex": "A7",
-      "char": "§"
-    },
-    {
-      "index": 738,
-      "gid": "copyright",
-      "unicodeHex": "A9",
-      "char": "©"
-    },
-    {
-      "index": 739,
-      "gid": "registered",
-      "unicodeHex": "AE",
-      "char": "®"
-    },
-    {
-      "index": 740,
-      "gid": "trademark",
-      "unicodeHex": "2122",
-      "char": "™"
-    },
-    {
-      "index": 741,
-      "gid": "degree",
-      "unicodeHex": "B0",
-      "char": "°"
-    },
-    {
-      "index": 742,
-      "gid": "minute",
-      "unicodeHex": "2032",
-      "char": "′"
-    },
-    {
-      "index": 743,
-      "gid": "second",
-      "unicodeHex": "2033",
-      "char": "″"
-    },
-    {
-      "index": 744,
-      "gid": "bar",
-      "unicodeHex": "7C",
-      "char": "|"
-    },
-    {
-      "index": 745,
-      "gid": "brokenbar",
-      "unicodeHex": "A6",
-      "char": "¦"
-    },
-    {
-      "index": 746,
-      "gid": "uni2113",
-      "unicodeHex": "2113",
-      "char": "ℓ"
-    },
-    {
-      "index": 747,
-      "gid": "dagger",
-      "unicodeHex": "2020",
-      "char": "†"
-    },
-    {
-      "index": 748,
-      "gid": "daggerdbl",
-      "unicodeHex": "2021",
-      "char": "‡"
-    },
-    {
-      "index": 749,
-      "gid": "estimated",
-      "unicodeHex": "212E",
-      "char": "℮"
-    },
-    {
-      "index": 750,
-      "gid": "uni2116",
-      "unicodeHex": "2116",
-      "char": "№"
-    },
-    {
-      "index": 751,
-      "gid": "uni212A",
-      "unicodeHex": "212A",
-      "char": "K"
-    },
-    {
-      "index": 752,
-      "gid": "section.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 753,
-      "gid": "cent",
-      "unicodeHex": "A2",
-      "char": "¢"
-    },
-    {
-      "index": 754,
-      "gid": "currency",
-      "unicodeHex": "A4",
-      "char": "¤"
-    },
-    {
-      "index": 755,
-      "gid": "dollar",
-      "unicodeHex": "24",
-      "char": "$"
-    },
-    {
-      "index": 756,
-      "gid": "Euro",
-      "unicodeHex": "20AC",
-      "char": "€"
-    },
-    {
-      "index": 757,
-      "gid": "uni20B4",
-      "unicodeHex": "20B4",
-      "char": "₴"
-    },
-    {
-      "index": 758,
-      "gid": "uni20BA",
-      "unicodeHex": "20BA",
-      "char": "₺"
-    },
-    {
-      "index": 759,
-      "gid": "uni20BD",
-      "unicodeHex": "20BD",
-      "char": "₽"
-    },
-    {
-      "index": 760,
-      "gid": "sterling",
-      "unicodeHex": "A3",
-      "char": "£"
-    },
-    {
-      "index": 761,
-      "gid": "uni20B8",
-      "unicodeHex": "20B8",
-      "char": "₸"
-    },
-    {
-      "index": 762,
-      "gid": "uni20AE",
-      "unicodeHex": "20AE",
-      "char": "₮"
-    },
-    {
-      "index": 763,
-      "gid": "yen",
-      "unicodeHex": "A5",
-      "char": "¥"
-    },
-    {
-      "index": 764,
-      "gid": "cent.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 765,
-      "gid": "currency.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 766,
-      "gid": "dollar.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 767,
-      "gid": "Euro.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 768,
-      "gid": "uni20B4.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 769,
-      "gid": "uni20BA.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 770,
-      "gid": "uni20BD.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 771,
-      "gid": "sterling.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 772,
-      "gid": "uni20B8.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 773,
-      "gid": "uni20AE.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 774,
-      "gid": "yen.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 775,
-      "gid": "uni2219",
-      "unicodeHex": "2219",
-      "char": "∙"
-    },
-    {
-      "index": 776,
-      "gid": "uni2052",
-      "unicodeHex": "2052",
-      "char": "⁒"
-    },
-    {
-      "index": 777,
-      "gid": "uni2215",
-      "unicodeHex": "2215",
-      "char": "∕"
-    },
-    {
-      "index": 778,
-      "gid": "plus",
-      "unicodeHex": "2B",
-      "char": "+"
-    },
-    {
-      "index": 779,
-      "gid": "minus",
-      "unicodeHex": "2212",
-      "char": "−"
-    },
-    {
-      "index": 780,
-      "gid": "multiply",
-      "unicodeHex": "D7",
-      "char": "×"
-    },
-    {
-      "index": 781,
-      "gid": "divide",
-      "unicodeHex": "F7",
-      "char": "÷"
-    },
-    {
-      "index": 782,
-      "gid": "equal",
-      "unicodeHex": "3D",
-      "char": "="
-    },
-    {
-      "index": 783,
-      "gid": "notequal",
-      "unicodeHex": "2260",
-      "char": "≠"
-    },
-    {
-      "index": 784,
-      "gid": "greater",
-      "unicodeHex": "3E",
-      "char": ">"
-    },
-    {
-      "index": 785,
-      "gid": "less",
-      "unicodeHex": "3C",
-      "char": "<"
-    },
-    {
-      "index": 786,
-      "gid": "greaterequal",
-      "unicodeHex": "2265",
-      "char": "≥"
-    },
-    {
-      "index": 787,
-      "gid": "lessequal",
-      "unicodeHex": "2264",
-      "char": "≤"
-    },
-    {
-      "index": 788,
-      "gid": "plusminus",
-      "unicodeHex": "B1",
-      "char": "±"
-    },
-    {
-      "index": 789,
-      "gid": "approxequal",
-      "unicodeHex": "2248",
-      "char": "≈"
-    },
-    {
-      "index": 790,
-      "gid": "asciitilde",
-      "unicodeHex": "7E",
-      "char": "~"
-    },
-    {
-      "index": 791,
-      "gid": "logicalnot",
-      "unicodeHex": "AC",
-      "char": "¬"
-    },
-    {
-      "index": 792,
-      "gid": "asciicircum",
-      "unicodeHex": "5E",
-      "char": "^"
-    },
-    {
-      "index": 793,
-      "gid": "infinity",
-      "unicodeHex": "221E",
-      "char": "∞"
-    },
-    {
-      "index": 794,
-      "gid": "integral",
-      "unicodeHex": "222B",
-      "char": "∫"
-    },
-    {
-      "index": 795,
-      "gid": "uni2126",
-      "unicodeHex": "2126",
-      "char": "Ω"
-    },
-    {
-      "index": 796,
-      "gid": "uni2206",
-      "unicodeHex": "2206",
-      "char": "∆"
-    },
-    {
-      "index": 797,
-      "gid": "product",
-      "unicodeHex": "220F",
-      "char": "∏"
-    },
-    {
-      "index": 798,
-      "gid": "summation",
-      "unicodeHex": "2211",
-      "char": "∑"
-    },
-    {
-      "index": 799,
-      "gid": "radical",
-      "unicodeHex": "221A",
-      "char": "√"
-    },
-    {
-      "index": 800,
-      "gid": "partialdiff",
-      "unicodeHex": "2202",
-      "char": "∂"
-    },
-    {
-      "index": 801,
-      "gid": "uni00B5",
-      "unicodeHex": "B5",
-      "char": "µ"
-    },
-    {
-      "index": 802,
-      "gid": "percent",
-      "unicodeHex": "25",
-      "char": "%"
-    },
-    {
-      "index": 803,
-      "gid": "perthousand",
-      "unicodeHex": "2030",
-      "char": "‰"
-    },
-    {
-      "index": 804,
-      "gid": "plus.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 805,
-      "gid": "minus.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 806,
-      "gid": "multiply.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 807,
-      "gid": "divide.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 808,
-      "gid": "equal.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 809,
-      "gid": "notequal.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 810,
-      "gid": "greater.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 811,
-      "gid": "less.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 812,
-      "gid": "greaterequal.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 813,
-      "gid": "lessequal.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 814,
-      "gid": "plusminus.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 815,
-      "gid": "approxequal.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 816,
-      "gid": "logicalnot.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 817,
-      "gid": "percent.tf",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 818,
-      "gid": "lozenge",
-      "unicodeHex": "25CA",
-      "char": "◊"
-    },
-    {
-      "index": 819,
-      "gid": "brevecombcy",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 820,
-      "gid": "brevecombcy.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 821,
-      "gid": "uni0308",
-      "unicodeHex": "308",
-      "char": "̈"
-    },
-    {
-      "index": 822,
-      "gid": "uni0307",
-      "unicodeHex": "307",
-      "char": "̇"
-    },
-    {
-      "index": 823,
-      "gid": "gravecomb",
-      "unicodeHex": "300",
-      "char": "̀"
-    },
-    {
-      "index": 824,
-      "gid": "acutecomb",
-      "unicodeHex": "301",
-      "char": "́"
-    },
-    {
-      "index": 825,
-      "gid": "uni030B",
-      "unicodeHex": "30B",
-      "char": "̋"
-    },
-    {
-      "index": 826,
-      "gid": "uni0302",
-      "unicodeHex": "302",
-      "char": "̂"
-    },
-    {
-      "index": 827,
-      "gid": "uni030C",
-      "unicodeHex": "30C",
-      "char": "̌"
-    },
-    {
-      "index": 828,
-      "gid": "uni0306",
-      "unicodeHex": "306",
-      "char": "̆"
-    },
-    {
-      "index": 829,
-      "gid": "uni030A",
-      "unicodeHex": "30A",
-      "char": "̊"
-    },
-    {
-      "index": 830,
-      "gid": "tildecomb",
-      "unicodeHex": "303",
-      "char": "̃"
-    },
-    {
-      "index": 831,
-      "gid": "uni0304",
-      "unicodeHex": "304",
-      "char": "̄"
-    },
-    {
-      "index": 832,
-      "gid": "hookabovecomb",
-      "unicodeHex": "309",
-      "char": "̉"
-    },
-    {
-      "index": 833,
-      "gid": "uni0312",
-      "unicodeHex": "312",
-      "char": "̒"
-    },
-    {
-      "index": 834,
-      "gid": "uni031B",
-      "unicodeHex": "31B",
-      "char": "̛"
-    },
-    {
-      "index": 835,
-      "gid": "dotbelowcomb",
-      "unicodeHex": "323",
-      "char": "̣"
-    },
-    {
-      "index": 836,
-      "gid": "uni0326",
-      "unicodeHex": "326",
-      "char": "̦"
-    },
-    {
-      "index": 837,
-      "gid": "uni0327",
-      "unicodeHex": "327",
-      "char": "̧"
-    },
-    {
-      "index": 838,
-      "gid": "uni0328",
-      "unicodeHex": "328",
-      "char": "̨"
-    },
-    {
-      "index": 839,
-      "gid": "uni0335",
-      "unicodeHex": "335",
-      "char": "̵"
-    },
-    {
-      "index": 840,
-      "gid": "uni0336",
-      "unicodeHex": "336",
-      "char": "̶"
-    },
-    {
-      "index": 841,
-      "gid": "uni03060301",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 842,
-      "gid": "uni03060300",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 843,
-      "gid": "uni03060309",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 844,
-      "gid": "uni03060303",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 845,
-      "gid": "uni03020301",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 846,
-      "gid": "uni03020300",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 847,
-      "gid": "uni03020309",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 848,
-      "gid": "uni03020303",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 849,
-      "gid": "uni0308.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 850,
-      "gid": "gravecomb.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 851,
-      "gid": "acutecomb.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 852,
-      "gid": "uni030B.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 853,
-      "gid": "uni0302.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 854,
-      "gid": "uni03020300.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 855,
-      "gid": "uni03020301.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 856,
-      "gid": "uni03020303.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 857,
-      "gid": "uni03020309.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 858,
-      "gid": "uni030C.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 859,
-      "gid": "uni0306.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 860,
-      "gid": "uni03060300.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 861,
-      "gid": "uni03060301.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 862,
-      "gid": "uni03060303.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 863,
-      "gid": "uni03060309.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 864,
-      "gid": "uni030A.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 865,
-      "gid": "tildecomb.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 866,
-      "gid": "uni0327.case",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 867,
-      "gid": "uni0302.i",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 868,
-      "gid": "uni0302.case.i",
-      "unicodeHex": null,
-      "char": ""
-    },
-    {
-      "index": 869,
-      "gid": "dieresis",
-      "unicodeHex": "A8",
-      "char": "¨"
-    },
-    {
-      "index": 870,
-      "gid": "dotaccent",
-      "unicodeHex": "2D9",
-      "char": "˙"
-    },
-    {
-      "index": 871,
-      "gid": "grave",
-      "unicodeHex": "60",
-      "char": "`"
-    },
-    {
-      "index": 872,
-      "gid": "acute",
-      "unicodeHex": "B4",
-      "char": "´"
-    },
-    {
-      "index": 873,
-      "gid": "hungarumlaut",
-      "unicodeHex": "2DD",
-      "char": "˝"
-    },
-    {
-      "index": 874,
-      "gid": "circumflex",
-      "unicodeHex": "2C6",
-      "char": "ˆ"
-    },
-    {
-      "index": 875,
-      "gid": "uni02C9",
-      "unicodeHex": "2C9",
-      "char": "ˉ"
-    },
-    {
-      "index": 876,
-      "gid": "caron",
-      "unicodeHex": "2C7",
-      "char": "ˇ"
-    },
-    {
-      "index": 877,
-      "gid": "breve",
-      "unicodeHex": "2D8",
-      "char": "˘"
-    },
-    {
-      "index": 878,
-      "gid": "ring",
-      "unicodeHex": "2DA",
-      "char": "˚"
-    },
-    {
-      "index": 879,
-      "gid": "tilde",
-      "unicodeHex": "2DC",
-      "char": "˜"
-    },
-    {
-      "index": 880,
-      "gid": "macron",
-      "unicodeHex": "AF",
-      "char": "¯"
-    },
-    {
-      "index": 881,
-      "gid": "cedilla",
-      "unicodeHex": "B8",
-      "char": "¸"
-    },
-    {
-      "index": 882,
-      "gid": "ogonek",
-      "unicodeHex": "2DB",
-      "char": "˛"
-    },
-    {
-      "index": 883,
-      "gid": "uni02BC",
-      "unicodeHex": "2BC",
-      "char": "ʼ"
-    },
-    {
-      "index": 884,
-      "gid": "uni02BB",
-      "unicodeHex": "2BB",
-      "char": "ʻ"
-    },
-    {
-      "index": 885,
-      "gid": "uni1C81",
-      "unicodeHex": "1C81",
-      "char": "ᲁ"
-    },
-    {
-      "index": 886,
-      "gid": "uni1C85",
-      "unicodeHex": "1C85",
-      "char": "ᲅ"
-    },
-    {
-      "index": 887,
-      "gid": "uniEFFD",
-      "unicodeHex": "EFFD",
-      "char": ""
-    }
-  ]
+  "0": "0",
+  "1": "1",
+  "2": "2",
+  "3": "3",
+  "4": "4",
+  "5": "5",
+  "6": "6",
+  "7": "7",
+  "8": "8",
+  "9": "9",
+  "": "A",
+  "": "Á",
+  "": "Ă",
+  "Ắ": "Ắ",
+  "Ặ": "Ặ",
+  "Ằ": "Ằ",
+  "Ẳ": "Ẳ",
+  "Ẵ": "Ẵ",
+  "Ǎ": "Ǎ",
+  "": "Â",
+  "Ấ": "Ấ",
+  "Ậ": "Ậ",
+  "Ầ": "Ầ",
+  "Ẩ": "Ẩ",
+  "Ẫ": "Ẫ",
+  "Ä": "Ä",
+  "Ạ": "Ạ",
+  "": "À",
+  "Ả": "Ả",
+  "Å": "Å",
+  "": "Ã",
+  "Æ": "Æ",
+  "": "B",
+  "": "C",
+  "Ć": "Ć",
+  "Č": "Č",
+  "Ç": "Ç",
+  "Ĉ": "Ĉ",
+  "Ċ": "Ċ",
+  "": "D",
+  "Ď": "Ď",
+  "": "Đ",
+  "Ð": "Ð",
+  "": "E",
+  "": "É",
+  "Ĕ": "Ĕ",
+  "Ě": "Ě",
+  "": "Ê",
+  "Ế": "Ế",
+  "Ệ": "Ệ",
+  "Ề": "Ề",
+  "Ể": "Ể",
+  "Ễ": "Ễ",
+  "Ë": "Ë",
+  "Ė": "Ė",
+  "Ẹ": "Ẹ",
+  "": "È",
+  "Ẻ": "Ẻ",
+  "Ē": "Ē",
+  "Ę": "Ę",
+  "Ẽ": "Ẽ",
+  "Ə": "Ə",
+  "Ʒ": "Ʒ",
+  "Ǯ": "Ǯ",
+  "": "F",
+  "": "G",
+  "Ğ": "Ğ",
+  "Ǧ": "Ǧ",
+  "Ĝ": "Ĝ",
+  "Ģ": "Ģ",
+  "Ġ": "Ġ",
+  "Ǥ": "Ǥ",
+  "": "H",
+  "Ħ": "Ħ",
+  "Ȟ": "Ȟ",
+  "Ĥ": "Ĥ",
+  "": "I",
+  "Ĳ": "Ĳ",
+  "": "Í",
+  "Ĭ": "Ĭ",
+  "Î": "Î",
+  "Ï": "Ï",
+  "İ": "İ",
+  "Ị": "Ị",
+  "": "Ì",
+  "Ỉ": "Ỉ",
+  "Ī": "Ī",
+  "Į": "Į",
+  "Ĩ": "Ĩ",
+  "": "J",
+  "Ĵ": "Ĵ",
+  "": "K",
+  "Ǩ": "Ǩ",
+  "Ķ": "Ķ",
+  "": "L",
+  "Ĺ": "Ĺ",
+  "Ľ": "Ľ",
+  "Ļ": "Ļ",
+  "Ŀ": "Ŀ",
+  "Ł": "Ł",
+  "": "M",
+  "": "N",
+  "Ń": "Ń",
+  "Ň": "Ň",
+  "Ņ": "Ņ",
+  "Ñ": "Ñ",
+  "Ŋ": "Ŋ",
+  "": "O",
+  "": "Ó",
+  "Ŏ": "Ŏ",
+  "": "Ô",
+  "Ố": "Ố",
+  "Ộ": "Ộ",
+  "Ồ": "Ồ",
+  "Ổ": "Ổ",
+  "Ỗ": "Ỗ",
+  "Ö": "Ö",
+  "Ọ": "Ọ",
+  "": "Ò",
+  "Ỏ": "Ỏ",
+  "": "Ơ",
+  "Ớ": "Ớ",
+  "Ợ": "Ợ",
+  "Ờ": "Ờ",
+  "Ở": "Ở",
+  "Ỡ": "Ỡ",
+  "Ő": "Ő",
+  "Ō": "Ō",
+  "Ø": "Ø",
+  "": "Õ",
+  "Œ": "Œ",
+  "": "P",
+  "Þ": "Þ",
+  "": "Q",
+  "": "R",
+  "Ŕ": "Ŕ",
+  "Ř": "Ř",
+  "Ŗ": "Ŗ",
+  "": "S",
+  "Ś": "Ś",
+  "Š": "Š",
+  "Ş": "Ş",
+  "Ŝ": "Ŝ",
+  "Ș": "Ș",
+  "ẞ": "ẞ",
+  "": "T",
+  "Ŧ": "Ŧ",
+  "Ť": "Ť",
+  "Ţ": "Ţ",
+  "Ț": "Ț",
+  "": "U",
+  "": "Ú",
+  "Ŭ": "Ŭ",
+  "Ǔ": "Ǔ",
+  "Û": "Û",
+  "Ü": "Ü",
+  "Ụ": "Ụ",
+  "": "Ù",
+  "Ủ": "Ủ",
+  "": "Ư",
+  "Ứ": "Ứ",
+  "Ự": "Ự",
+  "Ừ": "Ừ",
+  "Ử": "Ử",
+  "Ữ": "Ữ",
+  "Ű": "Ű",
+  "Ū": "Ū",
+  "Ų": "Ų",
+  "Ů": "Ů",
+  "Ũ": "Ũ",
+  "": "V",
+  "": "W",
+  "Ẃ": "Ẃ",
+  "Ŵ": "Ŵ",
+  "Ẅ": "Ẅ",
+  "Ẁ": "Ẁ",
+  "": "X",
+  "": "Y",
+  "": "Ý",
+  "Ŷ": "Ŷ",
+  "Ÿ": "Ÿ",
+  "Ỵ": "Ỵ",
+  "Ỳ": "Ỳ",
+  "Ỷ": "Ỷ",
+  "Ỹ": "Ỹ",
+  "": "Z",
+  "Ź": "Ź",
+  "Ž": "Ž",
+  "Ż": "Ż",
+  "": "a",
+  "": "á",
+  "": "ă",
+  "": "ắ",
+  "": "ặ",
+  "": "ằ",
+  "": "ẳ",
+  "": "ẵ",
+  "ǎ": "ǎ",
+  "": "â",
+  "": "ấ",
+  "": "ậ",
+  "": "ầ",
+  "": "ẩ",
+  "": "ẫ",
+  "ä": "ä",
+  "": "ạ",
+  "": "à",
+  "": "ả",
+  "å": "å",
+  "": "ã",
+  "æ": "æ",
+  "": "b",
+  "": "c",
+  "ć": "ć",
+  "č": "č",
+  "ç": "ç",
+  "ĉ": "ĉ",
+  "ċ": "ċ",
+  "": "d",
+  "ď": "ď",
+  "": "đ",
+  "ð": "ð",
+  "": "e",
+  "": "é",
+  "ĕ": "ĕ",
+  "ě": "ě",
+  "": "ê",
+  "": "ế",
+  "": "ệ",
+  "": "ề",
+  "": "ể",
+  "": "ễ",
+  "ë": "ë",
+  "ė": "ė",
+  "ẹ": "ẹ",
+  "": "è",
+  "ẻ": "ẻ",
+  "ē": "ē",
+  "ę": "ę",
+  "ẽ": "ẽ",
+  "ə": "ə",
+  "ʒ": "ʒ",
+  "ǯ": "ǯ",
+  "": "f",
+  "": "g",
+  "ğ": "ğ",
+  "ǧ": "ǧ",
+  "ĝ": "ĝ",
+  "ģ": "ģ",
+  "ġ": "ġ",
+  "ǥ": "ǥ",
+  "": "h",
+  "ħ": "ħ",
+  "ȟ": "ȟ",
+  "ĥ": "ĥ",
+  "": "i",
+  "ı": "ı",
+  "": "í",
+  "ĭ": "ĭ",
+  "î": "î",
+  "ï": "ï",
+  "": "ị",
+  "": "ì",
+  "": "ỉ",
+  "ī": "ī",
+  "į": "į",
+  "": "ĩ",
+  "ĳ": "ĳ",
+  "": "j",
+  "ȷ": "ȷ",
+  "ĵ": "ĵ",
+  "": "k",
+  "ǩ": "ǩ",
+  "ķ": "ķ",
+  "": "l",
+  "ĺ": "ĺ",
+  "ľ": "ľ",
+  "ļ": "ļ",
+  "ŀ": "ŀ",
+  "ł": "ł",
+  "": "m",
+  "": "n",
+  "ń": "ń",
+  "ŉ": "ŉ",
+  "ň": "ň",
+  "ņ": "ņ",
+  "ñ": "ñ",
+  "ŋ": "ŋ",
+  "": "o",
+  "": "ó",
+  "ŏ": "ŏ",
+  "": "ô",
+  "": "ố",
+  "": "ộ",
+  "": "ồ",
+  "": "ổ",
+  "": "ỗ",
+  "ö": "ö",
+  "ọ": "ọ",
+  "": "ò",
+  "ỏ": "ỏ",
+  "": "ơ",
+  "": "ớ",
+  "": "ợ",
+  "": "ờ",
+  "": "ở",
+  "": "ỡ",
+  "ő": "ő",
+  "ō": "ō",
+  "ø": "ø",
+  "": "õ",
+  "œ": "œ",
+  "": "p",
+  "þ": "þ",
+  "": "q",
+  "": "r",
+  "ŕ": "ŕ",
+  "ř": "ř",
+  "ŗ": "ŗ",
+  "": "s",
+  "ś": "ś",
+  "š": "š",
+  "ş": "ş",
+  "ŝ": "ŝ",
+  "ș": "ș",
+  "ß": "ß",
+  "ſ": "ſ",
+  "": "t",
+  "ŧ": "ŧ",
+  "ť": "ť",
+  "ţ": "ţ",
+  "ț": "ț",
+  "": "u",
+  "": "ú",
+  "ŭ": "ŭ",
+  "ǔ": "ǔ",
+  "û": "û",
+  "ü": "ü",
+  "": "ụ",
+  "": "ù",
+  "": "ủ",
+  "": "ư",
+  "": "ứ",
+  "": "ự",
+  "": "ừ",
+  "": "ử",
+  "": "ữ",
+  "ű": "ű",
+  "ū": "ū",
+  "ų": "ų",
+  "ů": "ů",
+  "": "ũ",
+  "": "v",
+  "": "w",
+  "ẃ": "ẃ",
+  "ŵ": "ŵ",
+  "ẅ": "ẅ",
+  "ẁ": "ẁ",
+  "": "x",
+  "": "y",
+  "": "ý",
+  "ŷ": "ŷ",
+  "ÿ": "ÿ",
+  "": "ỵ",
+  "": "ỳ",
+  "": "ỷ",
+  "": "ỹ",
+  "": "z",
+  "ź": "ź",
+  "ž": "ž",
+  "ż": "ż",
+  "ﬁ": "ﬁ",
+  "ﬂ": "ﬂ",
+  "ª": "ª",
+  "º": "º",
+  "А": "А",
+  "Б": "Б",
+  "В": "В",
+  "Г": "Г",
+  "Ѓ": "Ѓ",
+  "Ӷ": "Ӷ",
+  "Д": "Д",
+  "Е": "Е",
+  "Ѐ": "Ѐ",
+  "Ё": "Ё",
+  "Ж": "Ж",
+  "З": "З",
+  "И": "И",
+  "Й": "Й",
+  "Ѝ": "Ѝ",
+  "Ҋ": "Ҋ",
+  "К": "К",
+  "Ќ": "Ќ",
+  "Л": "Л",
+  "М": "М",
+  "Н": "Н",
+  "О": "О",
+  "П": "П",
+  "Р": "Р",
+  "С": "С",
+  "Т": "Т",
+  "У": "У",
+  "Ў": "Ў",
+  "Ф": "Ф",
+  "Х": "Х",
+  "Ч": "Ч",
+  "Ц": "Ц",
+  "Ш": "Ш",
+  "Щ": "Щ",
+  "Џ": "Џ",
+  "Ь": "Ь",
+  "Ы": "Ы",
+  "Ъ": "Ъ",
+  "Љ": "Љ",
+  "Њ": "Њ",
+  "Ѕ": "Ѕ",
+  "Є": "Є",
+  "Э": "Э",
+  "І": "І",
+  "Ї": "Ї",
+  "Ј": "Ј",
+  "Ћ": "Ћ",
+  "Ђ": "Ђ",
+  "Ѣ": "Ѣ",
+  "Ѫ": "Ѫ",
+  "Ѭ": "Ѭ",
+  "Ѳ": "Ѳ",
+  "Ѵ": "Ѵ",
+  "Җ": "Җ",
+  "Ҙ": "Ҙ",
+  "Қ": "Қ",
+  "Ҝ": "Ҝ",
+  "Ҟ": "Ҟ",
+  "Ҡ": "Ҡ",
+  "Ң": "Ң",
+  "Ҧ": "Ҧ",
+  "Ԥ": "Ԥ",
+  "Ҩ": "Ҩ",
+  "Ҫ": "Ҫ",
+  "Ҭ": "Ҭ",
+  "Ү": "Ү",
+  "Ұ": "Ұ",
+  "Ҳ": "Ҳ",
+  "Ҵ": "Ҵ",
+  "Ҷ": "Ҷ",
+  "Ҹ": "Ҹ",
+  "Һ": "Һ",
+  "Ԧ": "Ԧ",
+  "Ҽ": "Ҽ",
+  "Ҿ": "Ҿ",
+  "Ӏ": "Ӏ",
+  "Ӂ": "Ӂ",
+  "Ӄ": "Ӄ",
+  "Ӆ": "Ӆ",
+  "Ӈ": "Ӈ",
+  "Ӊ": "Ӊ",
+  "Ӌ": "Ӌ",
+  "Ӎ": "Ӎ",
+  "Ӑ": "Ӑ",
+  "Ӓ": "Ӓ",
+  "Ӕ": "Ӕ",
+  "Ӗ": "Ӗ",
+  "Ә": "Ә",
+  "Ӛ": "Ӛ",
+  "Ӝ": "Ӝ",
+  "Ӟ": "Ӟ",
+  "Ӡ": "Ӡ",
+  "Ӣ": "Ӣ",
+  "Ӥ": "Ӥ",
+  "Ӧ": "Ӧ",
+  "Ө": "Ө",
+  "Ӫ": "Ӫ",
+  "Ӭ": "Ӭ",
+  "Ӯ": "Ӯ",
+  "Ӱ": "Ӱ",
+  "Ӳ": "Ӳ",
+  "Ӵ": "Ӵ",
+  "Ӹ": "Ӹ",
+  "Ӻ": "Ӻ",
+  "Ӽ": "Ӽ",
+  "Ӿ": "Ӿ",
+  "Ԑ": "Ԑ",
+  "Ԓ": "Ԓ",
+  "Ԛ": "Ԛ",
+  "Ԝ": "Ԝ",
+  "Ҍ": "Ҍ",
+  "Ҏ": "Ҏ",
+  "Ԩ": "Ԩ",
+  "Ԯ": "Ԯ",
+  "а": "а",
+  "б": "б",
+  "в": "в",
+  "г": "г",
+  "ѓ": "ѓ",
+  "ӷ": "ӷ",
+  "д": "д",
+  "е": "е",
+  "ѐ": "ѐ",
+  "ё": "ё",
+  "ж": "ж",
+  "з": "з",
+  "и": "и",
+  "й": "й",
+  "ѝ": "ѝ",
+  "ҋ": "ҋ",
+  "к": "к",
+  "ќ": "ќ",
+  "л": "л",
+  "м": "м",
+  "н": "н",
+  "о": "о",
+  "п": "п",
+  "р": "р",
+  "с": "с",
+  "т": "т",
+  "у": "у",
+  "ў": "ў",
+  "ф": "ф",
+  "х": "х",
+  "ч": "ч",
+  "ц": "ц",
+  "ш": "ш",
+  "щ": "щ",
+  "џ": "џ",
+  "ь": "ь",
+  "ы": "ы",
+  "ъ": "ъ",
+  "љ": "љ",
+  "њ": "њ",
+  "ѕ": "ѕ",
+  "є": "є",
+  "э": "э",
+  "і": "і",
+  "ї": "ї",
+  "ј": "ј",
+  "ћ": "ћ",
+  "ђ": "ђ",
+  "ѣ": "ѣ",
+  "ѫ": "ѫ",
+  "ѭ": "ѭ",
+  "ѳ": "ѳ",
+  "ѵ": "ѵ",
+  "җ": "җ",
+  "ҙ": "ҙ",
+  "қ": "қ",
+  "ҝ": "ҝ",
+  "ҟ": "ҟ",
+  "ҡ": "ҡ",
+  "ң": "ң",
+  "ԥ": "ԥ",
+  "ҧ": "ҧ",
+  "ҩ": "ҩ",
+  "ҫ": "ҫ",
+  "ҭ": "ҭ",
+  "ү": "ү",
+  "ұ": "ұ",
+  "ҳ": "ҳ",
+  "ҵ": "ҵ",
+  "ҷ": "ҷ",
+  "ҹ": "ҹ",
+  "һ": "һ",
+  "ԧ": "ԧ",
+  "ҽ": "ҽ",
+  "ҿ": "ҿ",
+  "ӏ": "ӏ",
+  "ӂ": "ӂ",
+  "ӄ": "ӄ",
+  "ӆ": "ӆ",
+  "ӈ": "ӈ",
+  "ӊ": "ӊ",
+  "ӌ": "ӌ",
+  "ӎ": "ӎ",
+  "ӑ": "ӑ",
+  "ӓ": "ӓ",
+  "ӕ": "ӕ",
+  "ӗ": "ӗ",
+  "ә": "ә",
+  "ӛ": "ӛ",
+  "ӝ": "ӝ",
+  "ӟ": "ӟ",
+  "ӡ": "ӡ",
+  "ӣ": "ӣ",
+  "ӥ": "ӥ",
+  "ӧ": "ӧ",
+  "ө": "ө",
+  "ӫ": "ӫ",
+  "ӭ": "ӭ",
+  "ӯ": "ӯ",
+  "ӱ": "ӱ",
+  "ӳ": "ӳ",
+  "ӵ": "ӵ",
+  "ӹ": "ӹ",
+  "ӻ": "ӻ",
+  "ӽ": "ӽ",
+  "ӿ": "ӿ",
+  "ԑ": "ԑ",
+  "ԓ": "ԓ",
+  "ԛ": "ԛ",
+  "ԝ": "ԝ",
+  "ҍ": "ҍ",
+  "ҏ": "ҏ",
+  "ԩ": "ԩ",
+  "ԯ": "ԯ",
+  "Γ": "Γ",
+  "Δ": "Δ",
+  "Π": "Π",
+  "Ω": "Ω",
+  "μ": "μ",
+  "⁄": "⁄",
+  "½": "½",
+  "¼": "¼",
+  "¾": "¾",
+  "¹": "¹",
+  "²": "²",
+  "³": "³",
+  "⁴": "⁴",
+  " ": " ",
+  " ": " ",
+  "\r": "\r",
+  "⟨": "⟨",
+  "⟩": "⟩",
+  ".": ".",
+  ",": ",",
+  ":": ":",
+  ";": ";",
+  "…": "…",
+  "!": "!",
+  "¡": "¡",
+  "?": "?",
+  "¿": "¿",
+  "·": "·",
+  "•": "•",
+  "*": "*",
+  "#": "#",
+  "/": "/",
+  "\\": "\\",
+  "-": "-",
+  "–": "–",
+  "—": "—",
+  "‐": "‐",
+  "_": "_",
+  "(": "(",
+  ")": ")",
+  "{": "{",
+  "}": "}",
+  "[": "[",
+  "]": "]",
+  "‚": "‚",
+  "„": "„",
+  "“": "“",
+  "”": "”",
+  "‘": "‘",
+  "’": "’",
+  "«": "«",
+  "»": "»",
+  "‹": "‹",
+  "›": "›",
+  "\"": "\"",
+  "'": "'",
+  "ƒ": "ƒ",
+  "Å": "Å",
+  "@": "@",
+  "&": "&",
+  "¶": "¶",
+  "§": "§",
+  "©": "©",
+  "®": "®",
+  "™": "™",
+  "°": "°",
+  "′": "′",
+  "″": "″",
+  "|": "|",
+  "¦": "¦",
+  "ℓ": "ℓ",
+  "†": "†",
+  "‡": "‡",
+  "℮": "℮",
+  "№": "№",
+  "K": "K",
+  "¢": "¢",
+  "¤": "¤",
+  "$": "$",
+  "€": "€",
+  "₴": "₴",
+  "₺": "₺",
+  "₽": "₽",
+  "£": "£",
+  "₸": "₸",
+  "₮": "₮",
+  "¥": "¥",
+  "∙": "∙",
+  "⁒": "⁒",
+  "∕": "∕",
+  "+": "+",
+  "−": "−",
+  "×": "×",
+  "÷": "÷",
+  "=": "=",
+  "≠": "≠",
+  ">": ">",
+  "<": "<",
+  "≥": "≥",
+  "≤": "≤",
+  "±": "±",
+  "≈": "≈",
+  "~": "~",
+  "¬": "¬",
+  "^": "^",
+  "∞": "∞",
+  "∫": "∫",
+  "Ω": "Ω",
+  "∆": "∆",
+  "∏": "∏",
+  "∑": "∑",
+  "√": "√",
+  "∂": "∂",
+  "µ": "µ",
+  "%": "%",
+  "‰": "‰",
+  "◊": "◊",
+  "̈": "̈",
+  "̇": "̇",
+  "̀": "̀",
+  "́": "́",
+  "̋": "̋",
+  "̂": "̂",
+  "̌": "̌",
+  "̆": "̆",
+  "̊": "̊",
+  "̃": "̃",
+  "̄": "̄",
+  "̉": "̉",
+  "̒": "̒",
+  "̛": "̛",
+  "̣": "̣",
+  "̦": "̦",
+  "̧": "̧",
+  "̨": "̨",
+  "̵": "̵",
+  "̶": "̶",
+  "¨": "¨",
+  "˙": "˙",
+  "`": "`",
+  "´": "´",
+  "˝": "˝",
+  "ˆ": "ˆ",
+  "ˉ": "ˉ",
+  "ˇ": "ˇ",
+  "˘": "˘",
+  "˚": "˚",
+  "˜": "˜",
+  "¯": "¯",
+  "¸": "¸",
+  "˛": "˛",
+  "ʼ": "ʼ",
+  "ʻ": "ʻ",
+  "ᲁ": "ᲁ",
+  "ᲅ": "ᲅ",
+  "": ""
 }
